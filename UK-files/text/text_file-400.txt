@@ -1,0 +1,33 @@
+
+H ere’s a phrase to conjure with: “zero-day vulnerability”. If you’re a non-techie, it will sound either like a meaningless piece of jargon or it’ll have a vaguely sinister ring to it. “Year Zero” was the name chosen by the Khmer Rouge for 1975, the year they seized power in Cambodia and embarked on their genocidal rule. Behind the term lay the idea that “all culture and traditions within a society must be completely destroyed or discarded and a new revolutionary culture must replace it, starting from scratch”.
+If you run a computer network, though, especially one that hosts sensitive or confidential data, then zero-day vulnerability evokes nightmares and worse. It means that your system has a security hole that nobody, including you, knew about and that someone is now in a position to exploit. And you have no real defence against it.
+
+
+
+
+ 
+
+In its determination to screw the bad guys, the NSA left all of us vulnerable
+
+
+
+
+ 
+
+All software has bugs and all networked systems have security holes in them. If you wanted to build a model of our online world out of cheese, you’d need emmental to make it realistic. These holes (vulnerabilities) are constantly being discovered and patched, but the process by which this happens is, inevitably, reactive. Someone discovers a vulnerability, reports it either to the software company that wrote the code or to US-CERT, the United States Computer Emergency Readiness Team. A fix for the vulnerability is then devised and a “patch” is issued by computer security companies such as Kaspersky and/or by software and computer companies. At the receiving end, it is hoped that computer users and network administrators will then install the patch. Some do, but many don’t, alas.
+It’s a lousy system, but it’s the only one we’ve got. It has two obvious flaws. The first is that the response always lags behind the threat by days, weeks or months, during which the malicious software that exploits the vulnerability is doing its ghastly work. The second is that it is completely dependent on people reporting the vulnerabilities that they have discovered.
+Zero-day vulnerabilities are the unreported ones. Nowadays, they can be very valuable. Software companies and computer manufacturers offer bounties to those who report them. But they are also traded online in the recesses of the dark web, where the customers include not just affluent criminals but also government agencies.
+For years, it’s been a reasonable conjecture that intelligence agencies such as the NSA and GCHQ were stockpiling zero-day exploits for use in the wars against cybercrime and global terrorism. Some of these will be vulnerabilities that the spooks themselves have discovered; others will be ones they’ve bought on the black market. After all, if you’re a public official charged with protecting society against these threats, then you would take all available steps to fulfil that mission.
+
+
+
+
+Tim Berners-Lee: encryption cracking by spy agencies 'appalling and foolish'
+
+
+
+
+The agencies won’t talk about their hoards, for obvious reasons. So up to now all we’ve had are our suspicions. But on 13 August all that changed. A mysterious group calling itself the Shadow Brokers released 300 megabytes of the NSA’s “cyberweapons” stash on the internet. “The people behind the link used casual hacker lingo,” reported Bruce Schneier, a leading computer security expert, “and made a weird, implausible proposal involving holding a bitcoin auction for the rest of the data: ‘!!! Attention government sponsors of cyber warfare and those who profit from it !!!! How much you pay for enemies cyberweapons?’”
+Nobody knows who these Shadow Brokers are but the stolen material appears to be genuine. In which case, it’s embarrassing for the NSA. What is more interesting, from a democratic point of view is the nature of the zero-day vulnerabilities that have been revealed. For some of them can be exploited not just against enemy states or cybercriminals, but against common internet security systems – Schneier identifies products made by Cisco, Fortinet, Topsec, WatchGuard and Juniper, for example.
+Why is this important? Simply because it tells us that the NSA knew about vulnerabilities in networking kit on which the internet relies. They should have been reported to US-CERT and fixed, but apparently they weren’t. Which means that in its determination to screw the bad guys, the NSA left all of us vulnerable. Worse still, we wouldn’t have known about it had not a sinister group, possibly Russian in origin, hacked into the NSA’s systems. Just as we wouldn’t know about a lot of other unacceptable practices had not Edward Snowden blown the whistle. This is no way to run democracies in a digital age. Theresa May, please copy.
+

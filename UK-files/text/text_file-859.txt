@@ -1,0 +1,32 @@
+
+My eye was caught by an interesting “scoop” in last Saturday’s Daily Telegraph: “BBC to deploy detection vans to snoop on internet users,” screamed the headline. “The BBC is to spy on internet users in their homes,” the report began, “by deploying a new generation of Wi-Fi detection vans to identify those illicitly watching its programmes online. The Telegraph can disclose that from next month, the BBC vans will fan out across the country capturing information from private Wi-Fi networks in homes to ‘sniff out’ those who have not paid the licence fee.”
+Scary, eh? Before you reach for your tinfoil hat, though, some background might be helpful. First is the standard health warning: anything written about the BBC in the Telegraph, Murdoch newspapers or the Daily Mail has to be read in the context of those publications’ visceral hatred of the BBC and everything it stands for. Second, the Telegraph story is about the implications of the decision that, from September, people using the BBC iPlayer for watching TV programmes will be required – by law – to have a £145.50 TV licence.
+Given the success of the iPlayer and the way viewing habits have been changing, this is an entirely logical change. And since there is no point in having a law and not enforcing it, there has always been a system for detecting (and punishing) people who try to evade the licence fee. In the old analogue days, that involved the infamous “detector vans” roaming suburban streets picking up the tell-tale electromagnetic emissions from television sets.
+
+
+
+
+ 
+
+Is the BBC just playing the 've hav ze technology' line to scare us all into compliance?
+
+
+
+
+ 
+
+But in a digital era, when people are not watching TV on television sets, how does one detect people who are watching on digital devices – laptops, tablets and smartphones? The answer, according to the Telegraph, is obvious. The new-generation detector vans that will “fan out” across the country will deploy a sinister digital surveillance technology called “packet sniffing”. This will “lead to fears about invasion of privacy and follows years of concern over the heavy-handed approach of the BBC towards those suspected of not paying the licence fee”.
+Packet sniffing is possible because most households with a broadband connection fast enough to stream video will have a home Wi-Fi network that can be monitored from outside the building. If you have the right kit, then it’s child’s play to do it. (Google’s Street View cars were doing it for a while, until they were caught.) As data streams flow across the household network, the sniffer captures each data packet and, if required, can decode its raw data, showing the values of various fields in the packet and analyse its content. In that sense, it’s a very intrusive surveillance technology and if the BBC’s licence-evasion contractor, Capita, were to deploy it then that would indeed be a big story because it would amount to mass surveillance.
+
+
+
+
+Teefax: a nostalgic return to the days of teletext
+
+
+
+
+The only problem (for the Telegraph, anyway) is that the BBC has categorically denied that it plans to use packet-sniffing technology. “While we don’t discuss the details of how detection works for obvious reasons,” it says, “it is wrong to suggest that our technology involves capturing data from private Wi-Fi networks.”
+On the other hand, the BBC did discuss with the comptroller and auditor general to the House of Commons, Sir Amyas CE Morse, the methods the corporation intends to use. In his annual report, Sir Amyas says that “where the BBC… suspects that an occupier is watching live television but not paying for a licence, it can send a detection van to check whether this is the case. Detection vans can identify viewing on a non-TV device in the same way that they can detect viewing on a television set. BBC staff were able to demonstrate this to my staff in controlled conditions sufficient for us to be confident that they could detect viewing on a range of non-TV devices.”
+What are we to make of this? One possibility is that the BBC has developed non-intrusive technology for detecting iPlayer use. Given the corporation’s technological resources, it’s not an entirely implausible idea; after all, it was the BBC that developed the iPlayer, which is one of the most innovative and disruptive digital technologies of the last 15 years. Or does the key to the mystery lie in the sentence: “Where the BBC suspects that an occupier is watching live television but not paying for a licence, it can send a detection van to check whether this is the case…”? That’s targeted surveillance, which is deemed acceptable under the Regulation of Investigatory Powers Act 2000 and related legislation. Or is the BBC just playing the “ve hav ze technology” line to scare us all into compliance? We’ll have to wait until the autumn to find out. Meantime, just for the record, this columnist does have a TV licence…
+

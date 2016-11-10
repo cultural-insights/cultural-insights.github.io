@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html lang="en-GB" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" class="galleryRendererHTML">
+
+	
+	
+	
+	
+	
+	
+<head>
+<style class="tmgfont" data-font-name="Austin News Deck Semibold" data-font-file-woff2="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Deck-Web-Semibold.woff2" data-font-file-woff="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Deck-Web-Semibold.woff"></style><style class="tmgfont" data-font-name="Austin News Deck Medium" data-font-file-woff2="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Deck-Web-Medium.woff2" data-font-file-woff="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Deck-Web-Medium.woff"></style><style class="tmgfont" data-font-name="Austin News Text Roman" data-font-file-woff2="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Text-Web-Roman.woff2" data-font-file-woff="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Text-Web-Roman.woff"></style><style class="tmgfont" data-font-name="Austin News Text Semibold" data-font-file-woff2="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Text-Web-Semibold.woff2" data-font-file-woff="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Austin-News-Text-Web-Semibold.woff"></style><style class="tmgfont" data-font-name="Telesans Text Regular" data-font-file-woff2="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Telesans-Text-Web-Regular.woff2" data-font-file-woff="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Telesans-Text-Web-Regular.woff"></style><style class="tmgfont" data-font-name="Marian Poster Roman" data-font-file-woff2="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Marian-Poster-Web-Roman.woff2" data-font-file-woff="/etc/designs/telegraph/core/clientlibs/tmgchannels/_base/fonts/Marian-Poster-Web-Roman.woff"></style><script data-pagespeed-no-defer>//<![CDATA[
+(function(){function d(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}}var p=Date.now||function(){return+new Date};window.pagespeed=window.pagespeed||{};var q=window.pagespeed;function r(){this.a=!0}r.prototype.c=function(b){b=parseInt(b.substring(0,b.indexOf(" ")),10);return!isNaN(b)&&b<=p()};r.prototype.hasExpired=r.prototype.c;r.prototype.b=function(b){return b.substring(b.indexOf(" ",b.indexOf(" ")+1)+1)};r.prototype.getData=r.prototype.b;r.prototype.f=function(b){var a=document.getElementsByTagName("script"),a=a[a.length-1];a.parentNode.replaceChild(b,a)};r.prototype.replaceLastScript=r.prototype.f;
+r.prototype.g=function(b){var a=window.localStorage.getItem("pagespeed_lsc_url:"+b),c=document.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(document.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.f(c)};r.prototype.inlineCss=r.prototype.g;
+r.prototype.h=function(b,a){var c=window.localStorage.getItem("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),f=document.createElement("img");c&&!this.c(c)?f.src=this.b(c):(f.src=b,this.a=!0);for(var c=2,k=arguments.length;c<k;++c){var g=arguments[c].indexOf("=");f.setAttribute(arguments[c].substring(0,g),arguments[c].substring(g+1))}this.f(f)};r.prototype.inlineImg=r.prototype.h;
+function t(b,a,c,f){a=document.getElementsByTagName(a);for(var k=0,g=a.length;k<g;++k){var e=a[k],m=e.getAttribute("data-pagespeed-lsc-hash"),h=e.getAttribute("data-pagespeed-lsc-url");if(m&&h){h="pagespeed_lsc_url:"+h;c&&(h+=" pagespeed_lsc_hash:"+m);var l=e.getAttribute("data-pagespeed-lsc-expiry"),l=l?(new Date(l)).getTime():"",e=f(e);if(!e){var n=window.localStorage.getItem(h);n&&(e=b.b(n))}e&&(window.localStorage.setItem(h,l+" "+m+" "+e),b.a=!0)}}}
+function u(b){t(b,"img",!0,function(a){return a.src});t(b,"style",!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})}
+q.i=function(){if(window.localStorage){var b=new r;q.localStorageCache=b;d(function(){u(b)});d(function(){if(b.a){for(var a=[],c=[],f=0,k=p(),g=0,e=window.localStorage.length;g<e;++g){var m=window.localStorage.key(g);if(!m.indexOf("pagespeed_lsc_url:")){var h=window.localStorage.getItem(m),l=h.indexOf(" "),n=parseInt(h.substring(0,l),10);if(!isNaN(n))if(n<=k){a.push(m);continue}else if(n<f||0==f)f=n;c.push(h.substring(l+1,h.indexOf(" ",l+1)))}}k="";f&&(k="; expires="+(new Date(f)).toUTCString());
+document.cookie="_GPSLSC="+c.join("!")+k;g=0;for(e=a.length;g<e;++g)window.localStorage.removeItem(a[g]);b.a=!1}})}};q.localStorageCacheInit=q.i;})();
+pagespeed.localStorageCacheInit();
+//]]></script><link rel="stylesheet" href="/etc/designs/telegraph/core/clientlibs/tmgchannels.min.2-91--2.css" type="text/css"><link rel="stylesheet" href="/etc/designs/telegraph/core/clientlibs/tmgchannels/opinion.min.2-91--2.css" type="text/css"><script>
+		window.tmgFacebookAppId = "1785449471702494";
+	</script>
+
+	
+	
+	
+
+	
+			
+		
+
+	
+			
+			
+				
+					
+				
+
+			
+					
+				
+
+			
+				
+					<script>
+					// Meter did not return any assign values
+					</script>
+				
+
+			
+
+			
+		
+
+
+<title>Telegraph cartoons, September 2016 - Opinion</title>
+<link rel="dns-prefetch" href="//cdn.optimizely.com"/>
+<link rel="dns-prefetch" href="//cdn3.optimizely.com"/>
+<link rel="dns-prefetch" href="//d3c3cq33003psk.cloudfront.net"/>
+<link rel="dns-prefetch" href="//assets.adobedtm.com"/>
+<link rel="dns-prefetch" href="//cf.eip.telegraph.co.uk"/>
+<link rel="dns-prefetch" href="//b.scorecardresearch.com"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+<link rel="dns-prefetch" href="//www.googletagservices.com"/>
+<link rel="dns-prefetch" href="//static.parsely.com"/>
+<link rel="shortcut icon" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/icon_16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/icon_32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#2c769d">
+<meta name="msapplication-TileImage" content="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/mstile-310x150.png">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
+<link rel="canonical" href="http://www.telegraph.co.uk/opinion/2016/08/31/telegraph-cartoons-september-2016/"/>
+<meta name="description">
+<meta name="keywords" content="Cartoons,Jeremy Corbyn,Opinion">
+<meta name="tmgads.channel" content="opinion">
+<meta name="tmgads.section" content="opinion-2016">
+<meta name="tmgads.zone" content="opinion.2016.08.31">
+<meta name="tmgads.articleid" content="AmjJPVYpFbB9">
+<meta name="tmgads.pagetype" content="gallery">
+<meta name="tmgads.level" content="5">
+<meta name="tmgads.otherdata">
+
+	
+		<meta name="tmgads.geo" content="SG"></meta>
+	
+	 
+<meta name="tmgads.keywords" content="Cartoons,Jeremy Corbyn,Opinion">
+<meta name="DCSext.Channel" content="opinion">
+<meta name="DCSext.Category" content="2016">
+<meta name="DCSext.Genre" content="08">
+<meta name="DCSext.MLC" content="/opinion/2016/08/31">
+<meta name="DCSext.articleId" content="AmjJPVYpFbB9">
+<meta name="DCSext.Content_Type" content="gallery">
+<meta name="DCSext.Level" content="5">
+<meta name="DCSext.author">
+<meta name="DCSext.articleFirstPublished" content="2016-08-31 17:03">
+
+	
+		<meta name="DCSext.cf" content="1"></meta>
+	
+	 
+	
+		<meta name="DCSext.cd" content="0"></meta>
+	
+	 
+	
+		<meta name="DCSext.cn" content="0"></meta>
+	
+	 
+	
+		<meta name="DCSext.pd" content="1"></meta>
+	
+	 
+<meta property="og:title" content="Telegraph cartoons, September 2016">
+<meta property="og:description">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Telegraph">
+<meta property="og:url" content="http://www.telegraph.co.uk/opinion/2016/08/31/telegraph-cartoons-september-2016/">
+<meta property="og:image" content="http://www.telegraph.co.uk/content/dam/opinion/2016/09/30/BOB011016-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg">
+<meta name="twitter:title" content="Telegraph cartoons, September 2016">
+<meta name="twitter:url" content="http://www.telegraph.co.uk/opinion/2016/08/31/telegraph-cartoons-september-2016/">
+<meta name="twitter:image" content="http://www.telegraph.co.uk/content/dam/opinion/2016/09/30/BOB011016-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg">
+<meta name="twitter:site" content="@Telegraph">
+<meta name="twitter:description">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="tmgads.businessSegment" content="opinion">
+<meta name="tmg.sponsor">
+<meta name="DCSext.campaignId">
+<meta name="DCSext.campaignStart">
+<meta name="DCSext.campaignEnd">
+<meta name="DCSext.sponsored">
+<meta name="apple-itunes-app" content="app-id=303301873">
+<meta name="tmg.premium.override" content="false">
+<meta name="tmg.premium.state" content="false">
+<meta name="premiumContentOnFirstPublish" content="false">
+<script type="text/javascript">
+		var gs_channels="default";
+		// Last-updated: 2016-11-10 07:57:14.940
+gs_channels="soc_politics_british,telegraph_breaking,ent_family_films";
+
+
+	</script>
+<script type="application/ld+json">
+	{"@context":"https://schema.org","@type":"NewsArticle","headline":"Telegraph cartoons, September 2016","url":"http://www.telegraph.co.uk/opinion/2016/08/31/telegraph-cartoons-september-2016/","thumbnailUrl":"http://www.telegraph.co.uk/content/dam/opinion/2016/09/30/BOB011016-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg","dateCreated":"2016-09-30T19:24:18Z","articleSection":"portal","creator":["TMG"],"keywords":["Opinion","Slideshow","Cartoons","Jeremy Corbyn","Opinion"]}
+</script>
+<script src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-177113f60f763788009998023cd15615fe2168a2.js"></script>
+<script>
+	var pageData = {"structure":{"opinion":{"cartoons":{}}},"topics":{"people":{"jeremy-corbyn":{}}}};
+</script>
+<script id="tmg-ads-model-init">
+		var tmgAds = tmgAds || {};
+		tmgAds.cmd = tmgAds.cmd || [];
+		tmgAds.model = [{"ruleName":"MPU 680px 15secs","model":"mpu","minHeight":680,"refreshRate":15000,"refreshCycle":0,"viewport":"x"},{"ruleName":"MPU 680px 15secs","model":"mpu","minHeight":680,"refreshRate":15000,"refreshCycle":0,"viewport":"l"},{"ruleName":"MobBan 30secs NoRefresh","model":"ban","minHeight":0,"refreshRate":30000,"refreshCycle":1,"viewport":"m"},{"ruleName":"MobBan 30secs NoRefresh","model":"ban","minHeight":0,"refreshRate":30000,"refreshCycle":1,"viewport":"s"},{"ruleName":"MobBan 30secs NoRefresh","model":"ban","minHeight":0,"refreshRate":30000,"refreshCycle":1,"viewport":"xs"}];
+</script>
+<script>
+	var dataLayer = {pageName:'Opinion\\\/2016\\\/08\\\/31\\\/Telegraph cartoons, September 2016', pageType: 'galleryRenderer', premiumContent: false, premiumOverride: false, pageId: 'AmjJPVYpFbB9', rollupContentPath: '/opinion/2016/08/31/telegraph-cartoons-september-2016'};
+</script>
+<script>
+		(function(m,o){var r=m,n=o;var q=function(j,i,d,t){var s=new FontFace(i,"url("+d+")",{});s.load().then(function(u){n.fonts.add(u)})};var f=function(j,i,d,s){j.appendChild(n.createTextNode("			@font-face {			    font-family: '"+i+"';			    src: url('"+d+"') format('"+s+"');			}		"))};var b=function(){if(c()){var d=new r.FontFace("t",'url( "data:application/font-woff2;base64,d09GMgABAAAAAAIkAAoAAAAABVwAAAHcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABlYAgloKLEoBNgIkAxgLDgAEIAWDcgc1G7IEyB6SJAFID5YA3nAHC6h4+H7s27nP1kTyOoQkGuJWtNGIJKYznRI3VEL7IaHq985ZUuKryZKcAtJsi5eULwUybm9KzajBBhywZ5ZwoJNuwDX5C/xBjvz5DbsoNsvG1NGQiqp0NMLZ7JlnW+5MaM3HwcHheUQeiVokekHkn/FRdefvJaTp2PczN+I1Sc3k9VuX51Tb0Tqqf1deVXGdJsDOhz0/EffMOPOzHNH06pYkDDjs+P8fb/z/8n9Iq8ITzWywkP6PBMMN9L/O7vY2FNoTAkp5PpD6g1nV9WmyQnM5uPpAMHR2fe06jbfvzPriekVTQxC6lpKr43oDtRZfCATl5OVAUKykqwm9o8R/kg37cxa6eZikS7cjK4aIwoyh6jOFplhFrz2b833G3Jii9AjDUiAZ9AxZtxdEYV6imvRF0+0Nej3wu6nPZrTLh81AVcV3kmMVdQj6Qbe9qetzbuDZ7vXOlRrqooFSxCv6SfrDICA6rnHZXQPVcUHJYGcoqa3jVH7ATrjWBNYYkEqF3RFpVIl0q2JvMOJd7/TyjXHw2NyAuJpNaEbz8RTEVtCbSH7JrwQQOqwGl7sTUOtdBZIY2DKqKlvOmPvUxJaURAZZcviTT0SKHCXqzwc=" ) format( "woff2" )',{});d.load()["catch"](function(){});if(d.status==="loading"||d.status==="loaded"){return"woff2"}}return"woff"};var c=function(){return("FontFace" in r)};var p=n.querySelectorAll(".tmgfont"),b=b(),l="data-font-file-"+b;for(var k=0,h=p.length;k<h;++k){var g=p[k],a=g.getAttribute("data-font-name"),e=g.getAttribute(l);if(c()){q(g,a,e,b)}else{f(g,a,e,b)}}})(window,document);
+	</script>
+<script>
+		window.clientlibs ={"css":{"ooyala_overlay_css":{"load":["/etc/designs/telegraph/core/clientlibs/ooyala_overlay.min.2-91--2.css"],"test":"true"}},"js":{"respond_js":{"load":["/etc/designs/telegraph/core/clientlibs/respond.min.2-91--2.js"],"test":"Modernizr.mq(\"only all\")"},"ooyala_overlay_js":{"load":["/etc/designs/telegraph/core/clientlibs/ooyala_overlay.min.2-91--2.js"],"test":"true"},"json_js":{"load":["/etc/designs/telegraph/core/clientlibs/json.min.2-91--2.js"],"test":"window.JSON"},"core_js":{"load":["/etc/designs/telegraph/core/clientlibs/core.min.2-91--2.js"]}}};
+	</script>
+<script type="text/javascript" src="/etc/designs/telegraph/core/clientlibs/core/head.min.2-91--2.js"></script>
+<script>
+		window.clientlibs.js.twitter_js = {
+			test: "document.querySelectorAll && document.querySelectorAll('.twitter-follow-button, .twitter-tweet, .twitter-timeline').length === 0",
+			load: ["//platform.twitter.com/widgets.js"]
+		};
+		window.clientlibs.js.external_ooyala_player_v3 = {
+			test: true,
+			load:[ "//player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-priority" ]
+		};
+		window.clientlibs.js.google_maps = {
+			test: "document.querySelectorAll && !document.querySelectorAll('.js-product-map').length",
+			load: ["//maps.googleapis.com/maps/api/js?v=3&sensor=false&callback=tmgJQ.fn.telegraph_product_map"]
+		};
+		window.clientlibs.js.facebook_sdk = {
+			test: "document.querySelectorAll && document.querySelectorAll('.fb-page').length === 0",
+			load: ["//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4&appId=514912538657625"]
+		};
+	</script>
+<script>
+		window.tmg.dataLayerUtils.update();
+	</script>
+<script src="//cdn.optimizely.com/js/1425218314.js"></script>
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-35657-1096944.js"></script>
+<meta name="robots" content="">
+</head>
+<body class="galleryRenderer   ">
+<div id="fb-root"></div>
+<!-- FOR OVERLAY SNIPPET -->
+<section class="snippet-overlay-nav">
+<div class="container">
+<!-- OVERLAY LOGO BAR -->
+<div class="overlay-nav-logobar component">
+<div class="component-content">
+<a href="http://www.telegraph.co.uk/" class="overlay-nav-logobar__link">
+<img class="responsive-image overlay-nav-logobar__img" width="320" height="51" alt="The Telegraph" data-frz-ratio="6.27" src="/content/dam/TheTelegraph_portal_white-320-small.png" data-frz-src-array="[{'src':'/content/dam/TheTelegraph_portal_white-320-xsmall.png','width':160,'height':25,'percentageImageRatio':'15.62'},{'src':'/content/dam/TheTelegraph_portal_white-320-small.png','width':320,'height':51,'percentageImageRatio':'15.94'},{'src':'/content/dam/TheTelegraph_portal_white-320-medium.png','width':480,'height':76,'percentageImageRatio':'15.83'},{'src':'/content/dam/TheTelegraph_portal_white-320-large.png','width':720,'height':114,'percentageImageRatio':'15.83'},{'src':'/content/dam/TheTelegraph_portal_white-320-xlarge.png','width':1280,'height':204,'percentageImageRatio':'15.94'},{'src':'/content/dam/TheTelegraph_portal_white-320-xxlarge.png','width':1500,'height':239,'percentageImageRatio':'15.93'}]"/>
+</a>
+</div>
+</div>
+<!-- CLOSE BUTTON -->
+<div class="overlay-nav-button component">
+<div class="component-content">
+<button class="overlay-nav-button__button">
+<span class="overlay-nav-button__label"></span>
+</button>
+</div>
+</div>
+<div class="overlay-menu-wrapper">
+<!-- NAV PRIMARY -->
+<div class="overlay-nav-primary  component" data-tmg-dtm-nav-area="overlaynav">
+<div class="component-content">
+<nav>
+<ul class="overlay-nav-primary__list">
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " title="Premium" href="/premium/" data-tmg-dtm-nav="1-nav:/premium.html">
+Premium
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/news/" data-tmg-dtm-nav="2-nav:/news.html">
+News
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/sport/" data-tmg-dtm-nav="3-nav:/sport.html">
+Sport
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/business/" data-tmg-dtm-nav="4-nav:/business.html">
+Business
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/money/" data-tmg-dtm-nav="5-nav:/money.html">
+Money
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/opinion/" data-tmg-dtm-nav="6-nav:/opinion.html">
+Opinion
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/obituaries/" data-tmg-dtm-nav="7-nav:/obituaries.html">
+Obituaries
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/travel/" data-tmg-dtm-nav="8-nav:/travel.html">
+Travel
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/science-technology/" data-tmg-dtm-nav="9-nav:/science-technology.html">
+Tech &amp; Science
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/culture/" data-tmg-dtm-nav="10-nav:/culture.html">
+Culture
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/films/" data-tmg-dtm-nav="11-nav:/films.html">
+Film
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/tv/" data-tmg-dtm-nav="12-nav:/tv.html">
+TV
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/lifestyle/" data-tmg-dtm-nav="13-nav:/lifestyle.html">
+Lifestyle
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/fashion/" data-tmg-dtm-nav="14-nav:/fashion.html">
+Fashion
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " title="Luxury" href="/luxury/" data-tmg-dtm-nav="15-nav:/luxury.html">
+Luxury
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/cars/" data-tmg-dtm-nav="16-nav:/cars.html">
+Cars
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/video/" data-tmg-dtm-nav="17-nav:/video.html">
+Video
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<!-- NAV SECONDARY -->
+<div class="overlay-nav-secondary  component" data-tmg-dtm-nav-area="overlaynav">
+<div class="component-content">
+<nav>
+<ul class="overlay-nav-secondary__list">
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " title="Free Mobile app" href="http://m.onelink.me/710a462e" data-tmg-dtm-nav="1-nav:http://m.onelink.me/710a462e">
+Free Mobile App
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://jobs.telegraph.co.uk/" data-tmg-dtm-nav="2-nav:http://jobs.telegraph.co.uk/">
+Jobs
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/financial-services/" data-tmg-dtm-nav="3-nav:/financial-services.html">
+Financial Services
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/rewards/" data-tmg-dtm-nav="4-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/events/" data-tmg-dtm-nav="5-nav:/events.html">
+Events
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://dating.telegraph.co.uk/s/?utm_source=tmg&utm_medium=nav_A-Z&utm_campaign=none" data-tmg-dtm-nav="6-nav:http://dating.telegraph.co.uk/s/?utm_source=tmg&amp;utm_medium=nav_A-Z&amp;utm_campaign=none">
+Dating
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://www.telegraph.co.uk/promotions/" data-tmg-dtm-nav="7-nav:http://www.telegraph.co.uk/promotions/">
+Offers
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://shop.telegraph.co.uk/?utm_source=tmg&utm_medium=nav_A-Z&utm_campaign=none" data-tmg-dtm-nav="8-nav:http://shop.telegraph.co.uk/?utm_source=tmg&amp;utm_medium=nav_A-Z&amp;utm_campaign=none">
+Shop
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://gardenshop.telegraph.co.uk/" data-tmg-dtm-nav="9-nav:https://gardenshop.telegraph.co.uk/">
+Garden Shop
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://books.telegraph.co.uk/" data-tmg-dtm-nav="10-nav:http://books.telegraph.co.uk/">
+Bookshop
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://tickets.telegraph.co.uk/" data-tmg-dtm-nav="11-nav:http://tickets.telegraph.co.uk/">
+Box Office
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://puzzles.telegraph.co.uk/site/index.php" data-tmg-dtm-nav="12-nav:http://puzzles.telegraph.co.uk/site/index.php">
+Puzzles
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://fantasyfootball.telegraph.co.uk/" data-tmg-dtm-nav="13-nav:https://fantasyfootball.telegraph.co.uk/">
+Fantasy Football
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://wine.telegraph.co.uk/" data-tmg-dtm-nav="14-nav:http://wine.telegraph.co.uk/">
+Wine Shop
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="main-content">
+<!-- FOR HEADER SNIPPET -->
+<div class="container-fluid">
+<section class="snippet-header">
+<div class="header-top-wrapper">
+<div class="header-nav-global premium-mode component" data-tmg-dtm-nav-area="globalnav">
+<div class="component-content header-nav-global__logged-not-subscriber">
+<nav>
+<ul class="header-nav-global__list">
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="https://secure.telegraph.co.uk/secure/logout?redirectTo=" data-tmg-dtm-nav="1-nav:https://secure.telegraph.co.uk/secure/logout?redirectTo=">
+Log out
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="https://secure.telegraph.co.uk/secure/account?redirectTo=" data-tmg-dtm-nav="2-nav:https://secure.telegraph.co.uk/secure/account?redirectTo=">
+My Account
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="/subscriptions/sub-bar/?WT.mc_id=tmg_headernav" data-tmg-dtm-nav="3-nav:/subscriptions/sub-bar/?WT.mc_id=tmg_headernav">
+Subscribe
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="/rewards/" data-tmg-dtm-nav="4-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link header-nav-global__link--video" href="/video/" data-tmg-dtm-nav="5-nav:/video.html">
+Video
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="component-content header-nav-global__not-logged">
+<nav>
+<ul class="header-nav-global__list">
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="https://secure.telegraph.co.uk/secure/login?redirectTo=" data-tmg-dtm-nav="1-nav:https://secure.telegraph.co.uk/secure/login?redirectTo=">
+Login
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="https://secure.telegraph.co.uk/secure/registration?WT.mc_id=tmg_headernav&redirectTo=" data-tmg-dtm-nav="2-nav:https://secure.telegraph.co.uk/secure/registration?WT.mc_id=tmg_headernav&amp;redirectTo=">
+Register
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="/subscriptions/sub-bar/?WT.mc_id=tmg_headernav" data-tmg-dtm-nav="3-nav:/subscriptions/sub-bar/?WT.mc_id=tmg_headernav">
+Subscribe
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="/rewards/" data-tmg-dtm-nav="4-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link header-nav-global__link--video" href="/video/" data-tmg-dtm-nav="5-nav:/video.html">
+Video
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="component-content header-nav-global__logged-and-subscriber">
+<nav>
+<ul class="header-nav-global__list">
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="https://secure.telegraph.co.uk/secure/logout?redirectTo=" data-tmg-dtm-nav="1-nav:https://secure.telegraph.co.uk/secure/logout?redirectTo=">
+Log out
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="/rewards/" data-tmg-dtm-nav="2-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link " href="https://secure.telegraph.co.uk/secure/account?redirectTo=" data-tmg-dtm-nav="3-nav:https://secure.telegraph.co.uk/secure/account?redirectTo=">
+My Account
+</a>
+</li>
+<li class="header-nav-global__item">
+<a class="header-nav-global__link header-nav-global__link--video" href="/video/" data-tmg-dtm-nav="4-nav:/video.html">
+Video
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<script>
+(function () {
+  var links = document.querySelectorAll('.header-nav-global__link');
+  links.forEach(function (link) {
+    link.href = tmg.updateRedirectParam(link.href, document.location.href);
+  })
+}());
+</script>
+<div class="header-logobar header-logobar--small component">
+<div class="component-content">
+<a class="header-logobar__link" href="http://www.telegraph.co.uk/">
+<img class="responsive-image header-logobar__img" width="320" height="55" alt="The Telegraph" data-frz-ratio="5.77" src="/content/dam/best/telegraph_OUTLINE-small.png" data-frz-src-array="[{'src':'/content/dam/best/telegraph_OUTLINE-thumbnail.png','width':140,'height':24,'percentageImageRatio':'17.14'},{'src':'/content/dam/best/telegraph_OUTLINE-xsmall.png','width':160,'height':27,'percentageImageRatio':'16.88'},{'src':'/content/dam/best/telegraph_OUTLINE-small.png','width':320,'height':55,'percentageImageRatio':'17.19'},{'src':'/content/dam/best/telegraph_OUTLINE-medium.png','width':480,'height':83,'percentageImageRatio':'17.29'},{'src':'/content/dam/best/telegraph_OUTLINE-large.png','width':720,'height':124,'percentageImageRatio':'17.22'},{'src':'/content/dam/best/telegraph_OUTLINE-xlarge.png','width':1280,'height':221,'percentageImageRatio':'17.27'},{'src':'/content/dam/best/telegraph_OUTLINE-xxlarge.png','width':1500,'height':260,'percentageImageRatio':'17.33'}]"/>
+</a>
+</div>
+</div>
+<div class="header-nav-primary header-nav-primary--short component" data-tmg-dtm-nav-area="primarynav">
+<div class="component-content">
+<nav>
+<ul class="header-nav-primary__list">
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="http://www.telegraph.co.uk/" data-tmg-dtm-nav="1-nav:http://www.telegraph.co.uk/">
+Home
+</a>
+</li>
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="/news/" data-tmg-dtm-nav="2-nav:/news.html">
+News
+</a>
+</li>
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="/sport/" data-tmg-dtm-nav="3-nav:/sport.html">
+Sport
+</a>
+</li>
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="/business/" data-tmg-dtm-nav="4-nav:/business.html">
+Business
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<!-- NAV OVERLAY BUTTON-->
+<div class="header-nav-overlay-button component">
+<div class="component-content">
+<button class="header-nav-overlay-button__button">
+<span class="header-nav-overlay-button__label">ALL SECTIONS</span>
+</button>
+</div>
+</div>
+</div>
+<div class="header-headline-wrapper">
+<div class="header-breadcrumbs component">
+<div class="component-content">
+<ul class="header-breadcrumbs__list">
+<li class="header-breadcrumbs__item"><a href="/opinion/" class="header-breadcrumbs__link">Opinion</a></li>
+</ul>
+</div>
+</div>
+<div class="sponsor-slot sponsor-slot__header">
+<div class="sponsor-slot__logo-space">
+<span class="sponsor-slot__text"></span>
+<span class="sponsor-slot__logo"></span>
+</div>
+<div class="sponsor-slot__message"></div>
+</div>
+</div>
+<div class="header-nav-local  component" data-tmg-dtm-nav-area="localnav">
+<div class="component-content">
+<nav>
+<ul class="header-nav-local__list">
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " title="Telegraph View" href="/opinion/telegraph-view/" data-tmg-dtm-nav="1-nav:/opinion/telegraph-view.html">
+Telegraph View
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " title="Our Columnists" href="/opinion/columnists/" data-tmg-dtm-nav="2-nav:/opinion/columnists.html">
+Our Columnists
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " title="Letters" href="/opinion/letters/" data-tmg-dtm-nav="3-nav:/opinion/letters.html">
+Letters
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " title="Obituaries" href="/obituaries/" data-tmg-dtm-nav="4-nav:/obituaries.html">
+Obituaries
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " title="Cartoons" href="/opinion/cartoons/" data-tmg-dtm-nav="5-nav:/opinion/cartoons.html">
+Cartoons
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " title="Morning Briefing" href="/opinion/morning-briefing/" data-tmg-dtm-nav="6-nav:/opinion/morning-briefing.html">
+Morning Briefing
+</a>
+</li>
+</ul>
+<button class="header-nav-local__button">
+<span class="header-nav-local__button-text" data-no-expanded-label="More" data-expanded-label="Less">
+More
+</span>
+</button>
+</nav>
+</div>
+</div>
+</section>
+<div class="container">
+<div class="spark-slot1">
+</div>
+</div>
+</div>
+<div class="page-gallery-article container">
+<div class="row article__breadcrumb">
+<div class="col">
+<div class="breadcrumb ">
+<nav class="breadcrumbs component  ">
+<ul class="component-content breadcrumbs__container">
+<li class="breadcrumbs__item" data-breadcrumbs--active="true">
+<a class="breadcrumbs__item-content" href="http://www.telegraph.co.uk/">Telegraph</a>
+</li>
+<li class="breadcrumbs__item" data-breadcrumbs--active="true">
+<a class="breadcrumbs__item-content" href="/opinion/">Opinion</a>
+</li>
+</ul>
+<script type="application/ld+json" id="breadcrumb-json-ld-markup">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://www.telegraph.co.uk/","name":"Telegraph"}},{"@type":"ListItem","position":2,"item":{"@id":"http://www.telegraph.co.uk/opinion/","name":"Opinion"}}]}</script>
+</nav>
+</div>
+</div>
+</div>
+<main role="main" itemscope="https://schema.org/ImageGallery">
+<article>
+<div class="gallery__body">
+<div class="gallery__headline">
+<p class="article__category">
+<span class="article__date">30 Sep 2016</span>
+</p>
+<div class="sponsor-slot sponsor-slot__above-headline">
+<div class="sponsor-slot__logo-space">
+<span class="sponsor-slot__text"></span>
+<span class="sponsor-slot__logo"></span>
+</div>
+<div class="sponsor-slot__message"></div>
+</div>
+<div class="headline   component ">
+<div class="component-content">
+<h1 itemprop="headline name" class="headline__heading">
+Telegraph cartoons, September 2016
+</h1>
+</div>
+</div>
+<div class="sponsor-slot sponsor-slot__below-headline">
+<div class="sponsor-slot__logo-space">
+<span class="sponsor-slot__text"></span>
+<span class="sponsor-slot__logo"></span>
+</div>
+<div class="sponsor-slot__message"></div>
+</div>
+</div>
+<div class="gallery component">
+
+<script class="gallery__elements" type="application/json">
+	[
+	
+		{
+		"image-title": "Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/30/BOB011016-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, October 1",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/",
+		"slide-index": "0",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/30/BOB011016-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, October 1 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, October 1",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-october-10/",
+		"slide-index": "1",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/29/Adams_cartoon_30_september-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 29 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/28/ADAMS20160929-small_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 29",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-29/",
+		"slide-index": "2",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-thumbnail_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-xsmall_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-small_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-medium_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-large_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-xlarge_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/28/ADAMS20160929-xxlarge_trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++2xH_am5qyIBBe32ZCWDxVJsEAVEVd1rEOxUIrDlEOVI','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 28 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/27/ADAMS20160928updated-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 28",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-28/",
+		"slide-index": "3",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/27/ADAMS20160928updated-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 27 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/26/ADAMS20160927-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 27",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-27/",
+		"slide-index": "4",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/26/ADAMS20160927-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 26 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/25/ADAMS20160926-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 26",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-26/",
+		"slide-index": "5",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/25/ADAMS20160926-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 25 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/24/BOB250916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 25",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-25/",
+		"slide-index": "6",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/24/BOB250916-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/24/BOB250916-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/24/BOB250916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/24/BOB250916-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/24/BOB250916-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/24/BOB250916-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/24/BOB250916-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 24 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/23/BOB240916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 24",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-24/",
+		"slide-index": "7",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/23/BOB240916-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/23/BOB240916-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/23/BOB240916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/23/BOB240916-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/23/BOB240916-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/23/BOB240916-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/23/BOB240916-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 23 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 23",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-230/",
+		"slide-index": "8",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160923UPDATE-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 22 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/22/ADAMS20160922-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 22",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-220/",
+		"slide-index": "9",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160922-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 21 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/22/ADAMS20160921-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 21",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-210/",
+		"slide-index": "10",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/22/ADAMS20160921-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 20 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/19/ADAMS20160920-small_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 20",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-20/",
+		"slide-index": "11",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-thumbnail_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-xsmall_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-small_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-medium_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-large_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-xlarge_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160920-xxlarge_trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++wa5Jnl6ZbmW0SCmJ33EhWGN2O9iG5NfkBpetUeQfMMk','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams Cartoon, September 19 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/19/ADAMS20160919-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams Cartoon, September 19",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-190/",
+		"slide-index": "12",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/19/ADAMS20160919-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 18 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/17/BOB180916-small_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 18",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-18/",
+		"slide-index": "13",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/17/BOB180916-thumbnail_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':132,'height':82,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.12'},{'src':'/content/dam/opinion/2016/09/17/BOB180916-xsmall_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':151,'height':94,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.25'},{'src':'/content/dam/opinion/2016/09/17/BOB180916-small_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':302,'height':188,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.25'},{'src':'/content/dam/opinion/2016/09/17/BOB180916-medium_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':454,'height':283,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.33'},{'src':'/content/dam/opinion/2016/09/17/BOB180916-large_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':681,'height':425,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.41'},{'src':'/content/dam/opinion/2016/09/17/BOB180916-xlarge_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':1211,'height':757,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.51'},{'src':'/content/dam/opinion/2016/09/17/BOB180916-xxlarge_trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY.jpg','width':1420,'height':887,'imageCropTransformSuffix':'trans++zvhuEdIV8zrSEUfUHxHhPVmvLFEe4VF5-Fl2exsmFeY','percentageImageRatio':'62.46'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 17 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/16/BOB170916-small_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 17",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-17/",
+		"slide-index": "14",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/16/BOB170916-thumbnail_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/16/BOB170916-xsmall_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/BOB170916-small_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/BOB170916-medium_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/BOB170916-large_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/BOB170916-xlarge_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/BOB170916-xxlarge_trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++8a-22Vlh2P_oUKqIJlQj6_ccg-3LFVl6sVnc1183vE0','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 16 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/16/ADAMS20160916-small_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 16",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-160/",
+		"slide-index": "15",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-thumbnail_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-xsmall_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-small_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-medium_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-large_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-xlarge_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/16/ADAMS20160916-xxlarge_trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++EysEhmXSJSIOUrlRo7jMqs16Bh6qozRwhAQhSOGTn6o','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 15 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/14/ADAMS20160915-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 15",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-15/",
+		"slide-index": "16",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/14/ADAMS20160915-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 14 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/13/ADAMS20160914_1-small_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 14",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-14/",
+		"slide-index": "17",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-thumbnail_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':139,'height':86,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'61.87'},{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-xsmall_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':159,'height':99,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'62.26'},{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-small_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':319,'height':199,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'62.38'},{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-medium_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':479,'height':299,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-large_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':719,'height':449,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'62.45'},{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-xlarge_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':1279,'height':799,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'62.47'},{'src':'/content/dam/opinion/2016/09/13/ADAMS20160914_1-xxlarge_trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc.jpg','width':1499,'height':936,'imageCropTransformSuffix':'trans++M37qcIWR9CtrqmiMdQVx7BfOCYufpxLlnk9UkSq3RIc','percentageImageRatio':'62.44'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 12 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/12/ADAMS20160913-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 12",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-120/",
+		"slide-index": "18",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/12/ADAMS20160913-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 12 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/11/ADAMS20160912-small_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 12",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-12/",
+		"slide-index": "19",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-thumbnail_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-xsmall_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-small_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-medium_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-large_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-xlarge_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/11/ADAMS20160912-xxlarge_trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++Ezw5OF8VsBey80ir11mphpJ6ddzReAsOOegOHkyCFjw','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 11 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/10/BOB110916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 11",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-11/",
+		"slide-index": "20",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/10/BOB110916-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/10/BOB110916-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/10/BOB110916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/10/BOB110916-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/10/BOB110916-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/10/BOB110916-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/10/BOB110916-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 10 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/09/BOB100916-small_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 10",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-10/",
+		"slide-index": "21",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/09/BOB100916-thumbnail_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/09/BOB100916-xsmall_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/09/BOB100916-small_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/09/BOB100916-medium_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/09/BOB100916-large_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/09/BOB100916-xlarge_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/09/BOB100916-xxlarge_trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++CzQ2nIadN9uOB-q1CtFlj1IOU0Laxh5-SHIg-7SqHGE','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 9 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/08/ADAMS20160909-small_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 9",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-9/",
+		"slide-index": "22",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-thumbnail_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-xsmall_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-small_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-medium_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-large_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-xlarge_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/08/ADAMS20160909-xxlarge_trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s.jpg','width':1500,'height':938,'imageCropTransformSuffix':'trans++zEtXRB0DXuIn2fl79S5BHedJbc4ZOywsMTk-GlW-2_s','percentageImageRatio':'62.53'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 8 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/07/ADAMS20160908-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 8",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-8/",
+		"slide-index": "23",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/07/ADAMS20160908-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 7 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/06/ADAMS20160907-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 7",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-7/",
+		"slide-index": "24",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/06/ADAMS20160907-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 6 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/05/BOB060916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 6",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-6/",
+		"slide-index": "25",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/05/BOB060916-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/05/BOB060916-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/05/BOB060916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/05/BOB060916-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/05/BOB060916-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/05/BOB060916-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/05/BOB060916-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 5 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/04/BOB050916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 5",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-5/",
+		"slide-index": "26",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/04/BOB050916-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/04/BOB050916-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/04/BOB050916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/04/BOB050916-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/04/BOB050916-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/04/BOB050916-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/04/BOB050916-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 4 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/03/BOB040916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 4",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-4/",
+		"slide-index": "27",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/03/BOB040916-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/03/BOB040916-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/03/BOB040916-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/03/BOB040916-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/03/BOB040916-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/03/BOB040916-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/03/BOB040916-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Bob cartoon, September 3 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/02/BOB030916-small_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Bob cartoon, September 3",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/bob-cartoon-september-3/",
+		"slide-index": "28",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/02/BOB030916-thumbnail_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/02/BOB030916-xsmall_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/02/BOB030916-small_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/02/BOB030916-medium_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/02/BOB030916-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/02/BOB030916-xlarge_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/02/BOB030916-xxlarge_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 2 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/09/01/ADAMS20160902-small_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 2",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-2/",
+		"slide-index": "29",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-thumbnail_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-xsmall_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-small_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-medium_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-xlarge_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.5'},{'src':'/content/dam/opinion/2016/09/01/ADAMS20160902-xxlarge_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA','percentageImageRatio':'62.47'}]"
+		},
+	
+		{
+		"image-title": "Adams cartoon, September 1 | Telegraph cartoons, September 2016 - Opinion",
+		"image-subtitle": "",
+		"image-src": "/content/dam/opinion/2016/08/31/ADAMS20160901-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
+		"image-caption": "<p>To order prints or signed copies of any Adams cartoon&nbsp;<b><a href=\"http:\/\/adamscartoons.newsprints.co.uk\/\">click here<\/a><\/b>&nbsp;or call 01642 485322<\/p>\n\n<p>To buy originals, prints or signed copies of any Bob cartoon&nbsp;<b><a href=\"http:\/\/www.telegraph.co.uk\/bobprints\">click here<\/a><\/b>&nbsp;or call the same number<\/p>\n",
+		"image-alt": "Adams cartoon, September 1",
+		"slide-url": "/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-september-1/",
+		"slide-index": "30",
+		"image-credits": "",
+		"data-frz-use-parent": true,
+		"data-frz-persist": true,
+		"data-frz-ratio": "1.60",
+		"data-frz-src-array": "[{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/08/31/ADAMS20160901-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]"
+		}
+	
+	]
+</script>
+
+	
+<script type="text/template" class="template-Thumbail">
+		<div class="gallery__thumbnail-item" data-slide-index="@{slide-index}">
+			<a class="gallery__thumbnail-link" href="@{slide-url}" title="@{image-alt}">
+				<div class="gallery__thumbnail-image">
+					<img data-frz-use-parent="@{data-frz-use-parent}" onload="lzld(this)"  data-frz-persist="@{data-frz-persist}" data-frz-src-array="@{data-frz-src-array}" alt="@{image-alt}" data-frz-ratio="@{data-frz-ratio}">
+					<div class="gallery__thumbnail-caption">Back to image</div>
+				</div>
+			</a>
+		</div>
+	</script>
+<script type="text/template" class="template-Image">
+		<figure aria-hidden="false" class="gallery__item" data-url="@{slide-url}" data-title="@{image-title}" data-slide-index="@{slide-index}">
+			<div class="gallery__image">
+				<img src="@{image-src}" onload="lzld(this)" data-frz-use-parent="@{data-frz-use-parent}" data-frz-persist="@{data-frz-persist}" data-frz-src-array="@{data-frz-src-array}" alt="@{image-alt}" data-frz-ratio="@{data-frz-ratio}">
+			</div>
+			<figcaption>
+				<div class="gallery__subtitle"><strong>@{image-subtitle}</strong></div>
+				<div class="gallery__caption">@{image-caption}</div>
+				<div class="gallery__credits"><span class="gallery__credits-label">Credit:</span><span>@{image-credits}</span></div>
+			</figcaption>
+		</figure>
+	</script>
+<div class="component-content">
+<div class="gallery__image-view" aria-hidden="false">
+
+<div class="gallery__top-bar">
+<div role="complementary" class="gallery__socials">
+<div class="js-social-share social-share component  " data-options="{'shareButtons':{'facebook':{'networkEnable':true,'account':''},'twitter':{'networkEnable':true,'account':'Telegraph'},'pinterest':{'networkEnable':false,'account':''},'whatsapp':{'networkEnable':true,'account':''},'linkedin':{'networkEnable':false,'account':''},'email':{'networkEnable':true,'account':''}},'showCounters':false,'disableAutoClone':true,'disableStickiness':true}">
+<div class="js-component-content component-content">
+<ul class="js-social-share_list social-share_list">
+</ul>
+</div>
+</div>
+</div>
+<div role="navigation" aria-label="imagegallery" class="gallery__navigation">
+<a class="gallery__arrow gallery__arrow-left" role="button" title="Previous slide"><span class="sr-only">Previous slide</span></a>
+<a class="gallery__arrow gallery__arrow-right" role="button" href="/opinion/2016/08/31/telegraph-cartoons-september-2016/adams-cartoon-october-10/" title="Next slide"><span class="sr-only">Next slide</span></a>
+<span class="gallery__pagination" aria-live="polite">
+<span class="gallery__pagination-current">1</span> of
+<span class="gallery__pagination-number">31</span>
+</span>
+<a class="gallery__view-all" role="button">View All</a>
+<a class="gallery__skip-ad" role="button">Skip Ad</a>
+</div>
+</div>
+
+<div class="gallery__content">
+<figure class="gallery__item active" data-url="/opinion/2016/08/31/telegraph-cartoons-september-2016/" data-title="Telegraph cartoons, September 2016 - Opinion" aria-hidden="false" data-slide-index="0">
+
+<div class="gallery__image">
+<img src="/content/dam/opinion/2016/09/30/BOB011016-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg" data-frz-use-parent="true" data-frz-persist="true" data-frz-src-array="[{'src':'/content/dam/opinion/2016/09/30/BOB011016-thumbnail_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.14'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-xsmall_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'61.88'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-small_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.19'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-medium_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.29'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-large_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.36'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-xlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.42'},{'src':'/content/dam/opinion/2016/09/30/BOB011016-xxlarge_trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg','width':1500,'height':937,'imageCropTransformSuffix':'trans++qVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8','percentageImageRatio':'62.47'}]" onload="lzld(this)" alt="Adams cartoon, October 1" data-frz-ratio="1.60">
+</div>
+<figcaption>
+<div class="gallery__subtitle"><strong></strong></div>
+<div class="gallery__caption">
+<p>To order prints or signed copies of any Adams cartoon <b><a href="http://adamscartoons.newsprints.co.uk/">click here</a></b> or call 01642 485322</p>
+<p>To buy originals, prints or signed copies of any Bob cartoon <b><a href="http://www.telegraph.co.uk/bobprints">click here</a></b> or call the same number</p>
+</div>
+</figcaption>
+
+</figure>
+</div>
+</div>
+
+<div class="gallery__thumbnail-view" aria-hidden="true">
+<div class="gallery__top-bar">
+<div role="navigation" aria-label="thumbnail" class="gallery__navigation">
+<a class="gallery__back-to-image" role="button" title="Back to image">
+Back to image
+</a>
+</div>
+</div>
+<div class="gallery__content">
+<figure class="gallery__thumbnail-items-list"></figure>
+</div>
+</div>
+
+<div role="complementary" class="gallery__advert-mpu">
+<div class="spark-slot2">
+</div>
+<div class="advert component">
+<div class="component-content">
+<div id="tmgads_body_mpu" class="ad">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</main>
+
+<div class="facebook-like-container">
+<div class="js-social-follow social-follow fb-page component" data-options="{'followButtons':{'facebook':{'networkPrimary':true,'networkEnable':true,'account':'https://www.facebook.com/TELEGRAPH.CO.UK'},'twitter':{'networkPrimary':false,'networkEnable':true,'account':'Telegraph'},'instagram':{'networkPrimary':false,'networkEnable':false,'account':''},'pinterest':{'networkPrimary':false,'networkEnable':false,'account':''},'linkedin':{'networkPrimary':false,'networkEnable':false,'account':''}}}">
+<div class="social-follows-container">
+<div class="primary-follow-container">
+<div class="primary-follow-heading">
+<span>Follow The Telegraph</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="spark-slot3">
+</div>
+<section class="snippet-footer">
+<footer data-tmg-dtm-nav-area="footernav">
+<div class="footer-list-corporate  component">
+<div class="component-content">
+<nav>
+<ul class="footer-list-corporate__list">
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/topics/about-us/3489870/Contact-Telegraph-Media-Group.html" data-tmg-dtm-nav="1-nav:http://www.telegraph.co.uk/topics/about-us/3489870/Contact-Telegraph-Media-Group.html">
+Contact us
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " title="Rewards" href="/rewards/" data-tmg-dtm-nav="2-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/archive/" data-tmg-dtm-nav="3-nav:http://www.telegraph.co.uk/archive/">
+Archive
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://telegraph.newsprints.co.uk/" data-tmg-dtm-nav="4-nav:http://telegraph.newsprints.co.uk/">
+Reader Prints
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/advertising/" data-tmg-dtm-nav="5-nav:http://www.telegraph.co.uk/advertising/">
+Advertising
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/topics/syndication-services/" data-tmg-dtm-nav="6-nav:http://www.telegraph.co.uk/topics/syndication-services/">
+Syndication
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/topics/about-us/11570701/Editorial-and-commercial-guidelines.html" data-tmg-dtm-nav="7-nav:http://www.telegraph.co.uk/topics/about-us/11570701/Editorial-and-commercial-guidelines.html">
+Guidelines
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html" data-tmg-dtm-nav="8-nav:http://www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">
+Privacy
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://www.telegraph.co.uk/termsandconditions" data-tmg-dtm-nav="9-nav:http://www.telegraph.co.uk/termsandconditions">
+Terms and Conditions
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " title="Leave your feedback" href="http://survey.euro.confirmit.com/wix/p1850040950.aspx" data-tmg-dtm-nav="10-nav:http://survey.euro.confirmit.com/wix/p1850040950.aspx">
+Leave your feedback
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="footer-copyright component">
+<div class="component-content">
+<p>&copy; Telegraph Media Group Limited 2016</p>
+</div>
+</div>
+</footer>
+</section>
+<section class="footer-ads">
+
+<div class="advert component  js-advert " data-options="{ 'adLocation': 'foot', 'adType': 'ftr', 'breakpoints': 'xxs,xs,sm,md,lg,xl' }">
+<div class="component-content">
+</div>
+</div>
+
+<div class="advert component  js-advert " data-options="{ 'adLocation': 'foot', 'adType': 'tmg', 'breakpoints': 'xxs,xs,sm,md,lg,xl' }">
+<div class="component-content">
+</div>
+</div>
+
+</section>
+</div>
+</div>
+<div class="spark-slot4">
+</div>
+<script>
+        tmg.loadClientLibs.init();
+    </script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

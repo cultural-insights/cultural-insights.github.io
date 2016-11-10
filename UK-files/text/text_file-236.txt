@@ -1,0 +1,42 @@
+
+The irony must be lost on Silicon Valley: Uber, a company run by an unabashed admirer of libertarian novelist and philosopher Ayn Rand, is increasingly touted as the saviour of American public transport systems, establishing partnerships with many municipalities to offer a parallel, privately run alternative.
+
+
+
+
+The likes of Mark Zuckerberg already rule the media. Now they want to censor the past | Marina Hyde
+
+
+
+
+Some local governments already offer impressive discounts to their citizens who use Uber; why, after all, spend all this taxpayer money on infrastructure upgrades if one can simply hand it over to Silicon Valley firms? Others consider outsourcing particular functions – like the transportation of the disabled mandated by law – with Uber being the most obvious candidate to benefit.
+Uber’s foray into public services is part of a broader trend of technology firms pitching their services to cash-strapped municipalities and governments. They do so in the hope of convincing local authorities that the company’s superior ability to gather, analyse and act on data would yield tremendous savings for the public sector, while stimulating innovation and entrepreneurship.
+It all began with an explosion of “smart” programs – with “smart” nothing but a euphemism for “privatised”. From smart cities to smart elderly care, the promise has been to retrofit crumbling public infrastructure with the shiny and privately operated gadgetry that can get the job done on the cheap.
+“Smart” might no longer be a sexy adjective but its spirit lives on. Online home rental company Airbnb is building community centres in Japan, probably betting on the fact that the rapidly ageing Japanese population would inevitably push the government to search for an “Uber of smart ageing”. With all the data they have accumulated about our travel and living habits, Airbnb could, in fact, be in a perfect position to build social housing that might actually be fit to live in.
+Alphabet, the parent company of Google, is also making overtures to local administrations. Flow, its new software developed by Sidewalk Labs, aims to deploy troves of Alphabet data in order to mitigate the effects of intractable problems such as parking. And what city wouldn’t pay Alphabet a small fee, for the benefit of running super-efficient real-time auctions for each parking spot, thus helping to fill public coffers?
+
+
+
+
+
+
+
+
+  
+
+Alphabet hopes to use its Waze traffic and navigation app to profit from carpooling. Photograph: Paul Sakuma/AP
+
+
+Perhaps Alphabet will solve the parking problem by simply discouraging people from driving altogether: Alphabet is also launching its own car-sharing service – a competitor to Uber and rival taxi app Lyft – built around Waze, its service for analysing traffic data. The idea is for Alphabet to match up passengers with drivers who are headed in the same direction, thanks to all the data that it has accumulated about us and our movements.
+Then there’s Google Fiber, Alphabet’s other project, that hopes to provide fast and accessible internet connectivity to communities neglected by traditional telecom operators. As if this weren’t generous enough, Alphabet has also committed to wire up various public housing projects in the US, essentially subsidising internet access for low-income citizens – a tactic the company, along with Facebook, also pursues in the developing world.
+This entanglement between Silicon Valley and the public sector explains why tech executives prefer Democrats to Republicans. Having realised that there’s a lot of money to be made, technology firms have no desire to shrink the public sector: why deprive themselves of lucrative government contracts? A bloated government, which turns the administration of its programmes over to the private sector, would do just fine.
+The blame, of course, does not reside solely with Silicon Valley. The public sector itself can no longer think outside the neoliberal toolkit of corporations, markets and networks. But it also cannot and would not abandon itself. So it simply recruits the private sector to run its affairs. For governments, such deals promise speed and savings. For Silicon Valley, they promise guaranteed revenue – as well as guaranteed access to customers’ data, which, in the long run, might be more important than the revenue.
+This model makes the provision of essential services – once the preserve of the welfare state and local governments – dependent on the whims of corporations and their business models. And such whims are aplenty: markets that once looked so lucrative often prove to be loss-making in the light of new developments that were not part of the initial modelling. At this point, most firms prefer to cut their losses and quietly exit the scene, leaving citizens deprived of an important service.
+Such seems to be the fate of Obamacare – a quintessential product of remodelling welfare provision on the market model. Insurance providers, which were expected to compete with each other to offer customers the best deal, have realised that it’s mostly old people knocking on their doors, while the young – who are generally healthier and do not need much healthcare – tend to shy away. This means that many insurance providers find their participation in Obamacare too costly. As a result, they quit the insurance exchanges, leaving some communities with just one or no insurance providers to choose from.
+Silicon Valley does not have its own high-profile equivalent of Obamacare yet. There is, however, no reason to believe that tech firms will prove more effective at predicting their own failures than the insurance industry. Alphabet might have hoped to save the world but Google Fiber is in dire straits: the company now wants to halve the number of its employees, freezing plans for further extension in several areas. Apparently, building infrastructure is more difficult than selling online ads.
+A similar fate has overtaken Alphabet’s other “moonshot” ventures: Project Ara – an effort to make a modular smartphone out of interchangeable components – has just been suspended, joining the likes of Google Glass. Nest, the subsidiary that produces “smart’ thermostats, is also doing badly, with its former CEO Tony Fadell moving on to other projects and its staff reassigned to work on the “smart home” instead.
+Nest, too, was once pitched as a welfare-enhancing device: some insurance companies, having struck deals with Alphabet, offered Nest smoke detectors to their customers free of charge, in exchange for their data.
+Uber’s tempting offers are also far less straightforward than they appear. Its fares are, indeed, extremely low – which makes it very attractive to consumers and local governments alike. But such low rates mask layers of subsidies and tenuous assumptions that might or might not pan out. Uber’s low rates are premised on two developments: its ability to dispense with its drivers altogether – thus significantly reducing its labour costs – and the continuation of its impressive and virtually unopposed growth in every important market.
+A tiny change in those underlying assumptions and the promised savings might evaporate overnight. Uber’s users in China learned this the hard way when, just days after the company made a deal with its Chinese competitor Didi Chuxing, its rates reportedly doubled, at least for some Chinese users. Factor in the likely regulatory backlash, thousands of angry drivers who stand to lose their jobs, along with the aggressive anti-Uber lobbying pursued by its competitors: there’s little that is not unstable or fragile in Uber’s welfare model.
+What happens once the tech firms do become the only game in town? Will they be like those drug companies that, having entered into profitable and seemingly eternal deals with the government, can charge the public sector exorbitant prices, simply because there’s not much competition around? In the end, welfare by corporations is nothing but welfare for corporations.
+

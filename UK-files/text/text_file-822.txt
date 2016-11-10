@@ -1,0 +1,33 @@
+
+During the fallout of the Madoff Ponzi scheme, the Securities and Exchange Commission’s inspector general issued a scathing report on why the agency failed to detect the massive fraud. One of its most damning findings was that multiple SEC offices simultaneously scrutinized Madoff without even realizing it.
+From 1992 to 2008, the SEC received at least six complaints about Madoff’s firm that should have outed his fraud. The agency conducted two investigations and three examinations over the years. But the left hand didn’t know what the right was doing. At one point, according to the inspector general, two examinations “were open at the same time in different offices without either knowing the other one was conducting an identical examination.” Madoff slipped through the cracks, and Americans lost billions of dollars. 
+This fraudster was able to fool financial regulators because they are still using 1930s pen and paper technology to handle today’s digital challenges. This hurts investors, markets and the regulators’ own missions. And that’s why, along with some 34 other members of the House of Representatives, I am a sponsor of the Financial Transparency Act, HR 2477.
+For the most part, the major regulators collect information as plain‐text documents, rather than searchable, open data. Many of these documents date back to post-stock market crash compliance regulations passed during the Great Depression. 
+
+
+
+
+Madoff: a creatively bankrupt television recounting of Wall Street’s biggest fraud
+
+
+
+
+The SEC alone requires public companies, mutual funds and other entities to file hundreds of different forms, including Exhibit 21, which requires public companies to identify all subsidiaries. Most are uploaded as PDF documents, from which it is notoriously difficult to retrieve valuable information. Some tech companies try using a tedious workaround to extract data from PDFs known as scraping, but it is unreliable. In addition, the SEC still lacks a consistent identification code for each entity it regulates to allow it to quickly view a firm’s filings, history, and external data sources. 
+Repeat this same collection process across eight major financial agencies, hundreds of reporting systems, thousands of forms and the scope of the problem becomes clear – and a legislative solution is needed.
+The Financial Transparency Act requires each of the nine main financial regulators to adopt consistent data fields and formats for the information they are collecting under existing laws.
+For certain crucial data fields – like identifying regulated entities – the Financial Transparency Act also pushes the regulating agencies to coordinate with each other and adopt the same identification code. 
+Such data standards would create a myriad of benefits. 
+If the regulators adopted consistent data fields and formats for the information they already collect, instead of using PDF documents, they would have a better chance of catching fraudsters like Bernie Madoff and would make better decisions in crises. 
+In addition, data standards would help financial regulators more easily detect risk. 
+In the 1990s, the IRS and state tax authorities worked together to create consistent data fields and formats for individual tax returns. That is what made it possible for companies like Intuit to invent software like TurboTax which is used by many Americans each tax season. 
+If financial regulators switched from documents to data, then existing software could help banks, public companies and other financial firms automate compliance efforts, just as TurboTax does today for taxpayers. 
+In fact, if several regulators adopted the same fields and formats, then software could consolidate reporting tasks to all of them. Standardizing data to consolidate reports to multiple regulators is already happening in Australia, the Netherlands, the UK and elsewhere. The United States needs to catch up. 
+Dumping documents for data would also create new opportunities for the tech industry. Technology firms could republish financial data for investors’ decisions, analyze it to find hidden risk, and automate reporting to reduce compliance costs. 
+Why haven’t our regulators already figured this out? As the bureaucratic adage goes: “It’s not my job.” 
+For example, as Commissioner Kara Stein has pointed out, the SEC has no chief data officer responsible for surveying the agency’s whole data landscape. Instead, responsibility for data is split between all the dozens of different offices that handle the agency’s different reporting regimes. 
+But there is precedent for a legislative solution like the Financial Transparency Act to bring our regulators into the 21st Century. In 2014 Congress unanimously passed, and President Obama signed, the Data Act which mandates a single, government-wide data structure for federal government spending information. The Data Act means better transparency for taxpayers, better internal government management and automatic reporting for grantees and contractors. 
+Think of the Financial Transparency Act as a Data Act for financial regulation. It isn’t about collecting more or different information from the financial industry and consumers. The federal government already collects enough information on Americans as it is. Instead, this legislation makes better use of the information already being collected, and collects it more efficiently. This improves transparency and cuts down on time consumers and businesses spend each year on unnecessary paperwork. 
+As seen in the Madoff debacle, the backwardness of US regulators isn’t just an embarrassing contrast to the data-driven industry they are supposed to protect. It’s actively harming our investors, markets and consumers. 
+That’s why the transformation of financial regulation from outdated documents into searchable data will be good news for those who report or use it. Better decisions by investors and regulators, and lower compliance costs, will translate to faster economic growth and greater consumer confidence in our economy. 
+I urge my colleagues and the financial industry to get behind the Financial Transparency Act, and help get us into the digital century. 
+
