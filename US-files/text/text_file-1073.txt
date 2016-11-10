@@ -1,0 +1,25 @@
+The tech-news site Gizmodo rattled the interwebs this week with a report that Facebook's "trending" news feed was edited by a bunch of intolerant liberal elites who nixed items on conservative topics, such as Wisconsin Gov. Scott Walker or the IRS' alleged bias against conservative nonprofits.
+
+OK, Gizmodo's Michael Nunez didn't put it in exactly those terms. Nevertheless, the allegation that Facebook edited conservative sources and issues out of the "trending" feed — which was based largely on an interview with an unnamed former Facebook employee, and which Facebook vigorously denied — was explosive enough to prompt the Republican chairman of the U.S. Senate Commerce Committee to dash off a letter to Facebook CEO Mark Zuckerberg, demanding to know the feed's inner workings.
+
+It's richly ironic to see a deregulatory-minded Republican tell a private company to reveal trade secrets to Congress without citing a single statute or regulation that it may have violated. The fact is, the 1st Amendment applies to Congress, not Facebook. Even if every allegation in Nunez's piece were true, that wouldn't spell legal trouble for Facebook, just an image problem.
+
+But that's not what people should take away from this whole affair. The real lesson, as Gizmodo has pointed out previously, is that Facebook is not a scrupulously honest broker when it comes to "trending" news. No one should assume that the items that show up in that space (to the right of users' news feeds) are the most popular ones on Facebook at the moment. Maybe they are; maybe they aren't. The same goes for items in users' news feeds, for that matter.
+
+Gizmodo didn't turn up any evidence that Facebook's management instructed curators to lean left; in his response Monday, Facebook's Tom Stocky, who oversees the Trending Topics section, said, "There are rigorous guidelines in place for the review team to ensure consistency and neutrality. These guidelines do not permit the suppression of political perspectives. Nor do they permit the prioritization of one viewpoint over another or one news outlet over another."
+
+Those are the guidelines. But as Stocky admits, Facebook's curators do "audit" the trending stream, ostensibly to make it reflect what's happening in the real world, not some parallel universe of Internet memes. These reviewers "are instructed to disregard junk or duplicate topics, hoaxes, or subjects with insufficient sources," Stocky wrote.
+
+A screen shot of Facebook's Trending Topics Jon Healey A screenshot from Facebook of its Trending Topics. Note the prominent placement of an item about conservative pundits Dan Savage and Ann Coulter. A screenshot from Facebook of its Trending Topics. Note the prominent placement of an item about conservative pundits Dan Savage and Ann Coulter. (Jon Healey) (Jon Healey)
+
+Regardless of the motive, giving editors this kind of power inevitably injects bias. What constitutes "insufficient sources"? The answer to that question lies in the perceived credibility of different outlets, which in some ways is an ideological litmus test. How do you differentiate "junk" and "hoaxes" from true tales written by people far outside the mainstream? Again, where that line is drawn depends on the editor involved.
+
+Facebook could dump the curators and let its algorithms dictate what's in the trending feed. It doesn't because it's apparently worried about the feed's quality — in other words, the amount of "junk," "hoaxes," unsubstantiated rumors and other crap that the algorithms would surface.
+
+So what does that tell you about Facebook users? And about Facebook as a platform? The occasional thumb that Facebook curators put on the trending scale has no effect on the material people spread in their news feeds, which is the main way more than 200 million North Americans who use the social network interact with it.
+
+Anyway, Gizmodo has given Facebook users a valuable reminder that the trending feed isn't a pure reflection of what's happening on the site. The message, in other words, is be skeptical, demand transparency and don't rely on any one source for your news. No need for a congressional investigation to make that point.
+
+Email Jon Healey
+
+Follow Healey's intermittent Twitter feed @jcahealey

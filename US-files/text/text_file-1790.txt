@@ -1,0 +1,35 @@
+“The first principle is that you must not fool yourself — and you are the easiest person to fool,” physicist Richard Feynman famously told the young scientists graduating from CalTech in 1974. Fully cognizant of this truth, the scientific establishment has developed many rules and procedures to weed out false findings from experiments, key among them replication.
+
+Replication means that an experiment can be repeated over and over, by the original researcher or any other competent scientist in the field, and it will produce the same or similar result. Now, science is in the midst of a “replication failure” crisis — at least according to scores of articles in the scientific and mainstream media.
+
+Although replication failure has been a subject of discussion among scientists for some time, it burst into the public arena last summer, when an article showing poor replicability levels of psychology experiments appeared in the journal Science. The authors had reproduced 100 peer-reviewed studies, but got unambiguously similar outcomes to the original research only 39% of the time. The concern spread quickly beyond psychology, setting off a wave of headlines such as, “How Science Goes Wrong” (The Economist), “How Science Is Broken” (Vox), “Getting the Bogus Studies out of Science” (The Wall Street Journal), and “Why We Keep Getting Fooled by Bad Science” (New York Post).
+
+Is science truly in trouble? Rife with fraud? Losing reliability?
+
+Absolutely not. Science is doing what it always has done — failing at a reasonable rate and being corrected. Replication should never be 100%. Science works beyond the edge of what is known, using new, complex and untested techniques. It should surprise no one that things occasionally come out wrong, even though everything looks correct at first.
+
+The mistake is to think that any published paper or journal article is the end of the story and a statement of incontrovertible truth. It is a progress report.
+
+Replication failures should not be conflated with scientific fraud, which is rightly condemnable. The failure to replicate a part or even the whole of an experiment is not sufficient for indictment of the initial inquiry or its researchers. Failure is part of science. Without failures there would be no great discoveries.
+
+How then should we respond to replication failures? They should be published without prejudice. In science, revision is a victory — not a devious cover-up or intellectual flip-flop. Yes, a complete inability to reproduce results could indicate an overlooked fatal flaw in the study. But it more often stems from subtle inconsistencies between one experiment and the next. Pinpointing that inconsistency is how we discover what we didn't even know that we didn't know.
+
+For example, in the early 20th century controversy raged over how nerves made muscles and glands respond. Was it bio-electricity or chemicals? In 1921 an Austrian biologist, Otto Loewi, dreamed, literally, of a simple experiment that would settle the issue and took to his lab in the middle of the night to test it.
+
+He removed the hearts from two live frogs and placed the still-beating hearts in a saline bath. The first heart was dissected carefully to retain the vagus nerve, which speeds or slows the heart rate. The second heart had that nerve removed. Loewi electrically stimulated the vagus nerve of the first heart and watched its beat slow down, as he expected.
+
+Then, Loewi let the solution surrounding first heart flow into the second heart's liquid bath. Shortly, the second, nerveless heart also began to slow. Loewi's concluded that the stimulated vagus nerve released a chemical that caused the first heart muscle to slow its contractions — and then that chemical seeped into the saline and had the same effect on the second heart. In short, Loewi had proven that neurotransmission was inherently chemical, not electrical.
+
+Except — this simple and brilliant experiment couldn't be replicated, even by Loewi, for nearly six years. Why? Loewi had done his first experiment in the cold night, and the other replications were all done during warmer days or in heated buildings. And that mattered. First, frogs' physiology changes seasonally: their heart rate is less susceptible to modulation in the spring and summer. Second, the chemical transmitter (now known to be acetylcholine) gets broken down by an enzyme that is more active when it is warm.
+
+What science learned from this replication failure was that physiology can be seasonal and that enzymes are modulated by temperature — and eventually how synapses fire. In 1936 Loewi shared a Nobel prize for this discovery.
+
+Replication failure is more common in newer areas of science than in the mature fields. It is now less common in astronomy, physics and many branches of chemistry, while it seems to plague organismic or systems biology, psychology and social psychology in particular. The younger the field the less we know about the variables that can fool us when we don't control for them.
+
+In the 18th and 19th centuries, scientists struggled even to determine the exact temperature at which water boils. It took many failures to learn that factors such as the material of the vessel or the presence of dust were crucial. Understanding that altitude was a critical variable (the higher the altitude the lower the boiling point) revealed the all-important relationship between temperature and pressure — one of the underpinnings of thermodynamics. But initially it just led to more than 100 years of puzzling replication failures.
+
+Science would be in a crisis if it weren't failing most of the time. Science is full of wrong turns, unconsidered outcomes, omissions and, of course, occasional facts. Replication is part of that process, as open to failure as any other step. The mistake is to think that any published paper or journal article is the end of the story and a statement of incontrovertible truth. It is a progress report. Don't be fooled.
+
+Stuart Firestein is the former chair of the Department of Biological Sciences at Columbia University and the author of "Failure: Why Science is so Successful."
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

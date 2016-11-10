@@ -1,0 +1,33 @@
+As expected, the Federal Communications Commission proposed a new approach Thursday to the 20-year-old federal requirement that cable-TV customers not be compelled to rent a set-top box from the local cable provider. And judging from the hyperbolic reaction by the cable industry and its allies, the FCC may be onto something.
+
+Here's a typical comment. In a letter to the leaders of the congressional committees that oversee the FCC, executives of 17 video programming companies warned that if the proposal is adopted, Google will "be able to strip-mine our creative work for free, while collecting valuable data on users' viewing history and monetizing it through ads."
+
+The programmers are referring to the ability that Google (or any other company) would have under the proposed rule to offer a new version of the cable programming guide, potentially with personalized advertising. As they put it, "Third party device-makers will be allowed to unbundle licensed video streams from TV providers, repackage these shows and movies into their own devices and services, and generate revenue from advertising and data collection — without having to negotiate with us for licensing rights or pay any licensing fees."
+
+(With some luck, the programmers show the same concern for viewers' privacy on their own websites.)
+
+The heart of this battle is how well Netflix, Hulu and other Internet programming will be integrated into the TV channels and video-on-demand services offered by cable.
+
+Freely translated, their complaint is that a company that offers a competing set-top box (or other "navigation device," whatever hardware or software form that might take) might decide to offer a comprehensive version of the program guide that pulls in content from the full gamut of online services, then comes up with innovative ways for users to discover what they might want to watch. And that's threatening to programmers who've developed a symbiotic relationship with the current pay-TV oligarchy.
+
+The pay-TV industry trots out a similar argument in opposition to a la carte pricing of cable networks. Niche programmers argue that if the public isn't forced to buy their channels in order to obtain access to more popular fare, they'll wither and die.
+
+But think about that for a minute: Isn't that another way of saying that consumers should be forced to pay for something they don't want in order to serve someone else's interests?
+
+And the whole strip-mining argument is precious close to specious. Television set manufacturers already offer program guides for over-the-air channels, and nothing stops them from larding their guides with personalized ads — and paying nothing to the programmers. That's because the programmers already are getting paid by advertisers and pay-TV operators.
+
+So why should a company offering an alternative to the cable box have to split with programmers the revenue it collects from coming up with a guide that leads viewers to their programming? The answer seems to depend on how powerful the programmer is.
+
+Major ones such as Disney argue that they negotiate over channel position, bundles and the like with cable operators, so they should be able to do the same with any company in the signal path. But cable operators have to negotiate because they need licenses from programmers in order to retransmit their work. Under the FCC's proposal, the competing suppliers won't be impinging on the programmers' copyrights; they'll simply be enabling people to pick which of the retransmitted programs (all of which they're paying for, if they're cable channels) they want to display.
+
+Minor programmers, meanwhile, fear that the companies that want to compete with the cable box would "skim ad revenue out of the TV ecosystem," diminishing the value of their shows to cable operators — and presumably their share of the monthly cable fees. The assumption here is that TV ad revenue is a zero sum game, which has some truth; advertisers have been putting more of their money into Facebook and other digital venues and a declining share into TV. But isn't that more of a threat to networks with a broad audience than to niche channels that attract a more specific demographic?
+
+By the way, the real impetus for the proposed rules isn't the commission, it's Congress.
+
+In the Telecommunications Act of 1996, Congress required the FCC to adopt rules "to assure the commercial availability ... of converter boxes" and related equipment from manufacturers and retailers not affiliated with a pay-TV provider. But despite repeated efforts, the "fully competitive" market sought by lawmakers never emerged, and aside from TiVo, the major brand names in consumer electronics gave up trying to offer rival cable-TV set-tops.
+
+The notice of proposed rulemaking that the commission issued Thursday — by a party-line 3-2 vote, as has become this FCC's norm on big issues — calls for a more technologically agnostic approach than the commission's previous attempt. In essence, it would require cable operators to make three feeds available in a standardized format: their video programming (i.e., their channels), as well as information specifying the access and usage limits on the programming (e.g., what channels the customer is paying for, and whether a particular channel allows recording). It also would require them to support at least one standardized approach to protecting the programming against piracy.
+
+Again, the heart of this battle is how well programming from the Internet — Netflix, Hulu, YouTube, Vudu, Sling TV, Amazon Prime and many more obscure sources — will be integrated into the "linear" TV channels and video-on-demand services offered by cable. Today, cable operators have near-complete control over that issue, enabling them to make their own services more prominent in the programming guide they offer than other services' content, if they even acknowledge those services at all. In the typical home, viewers have to switch TV inputs and guides, in some cases multiple times, in order to see all their options. The FCC's proposal would allow a company to present all programming through a single interface.
+
+In other words, the proposal would expose every network and show on cable to more direct competition from even more sources. And giving consumers an alternative to the protective bubble that programmers and cable operators have constructed could, indeed, make it harder for some programmers to survive. But that would happen only if other programmers and box-makers come up with something more compelling than cable offers today.

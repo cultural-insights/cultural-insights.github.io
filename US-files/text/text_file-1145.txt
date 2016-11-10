@@ -1,0 +1,29 @@
+Donald Trump has been scoring points and perhaps winning votes charging that the GOP primaries are rigged. Going into last week's contests in five states, he loudly pointed out that almost 2 million more people had voted for him than had voted for Cruz. From Trump's perspective, the difference showed that a Cruz nomination would thwart the will of the people. But there was another way to look at it. When you added up the votes for all the other contenders, almost 6 million more Republicans had voted against Trump than had voted for him. Even after the April 26 primaries, when Trump declared himself “the presumptive nominee,” he had won a little more than 10 million votes, but more than 15 million Republicans had voted against him.
+
+This paradox is a completely predictable outcome of a broken method of voting. Game theorists — who study the science of strategic thinking — have been arguing for centuries that the way we vote makes it inevitable that we would confront this problem. We can improve the system, but only by changing the way we construct our ballots.
+
+Here's the situation: With more than two candidates, it is possible to have the largest number of votes while not having a majority. Trump can say he's the rightful winner because he has more votes than any other individual candidate, and Cruz can say that a majority of voters have said they don't want Trump.
+
+The candidates' contradictory claims arise because we have no way for voters to tell us who is their second choice. It is possible that those who have voted for Kasich (and others) would prefer Trump over Cruz. If so, it supports Trump's contention that he is the people's choice. On the other hand, if you believe the #NeverTrump folks, Kasich voters would prefer the GOP nominate anybody not named Trump. Then, we side with Cruz.
+
+There are better systems of voting that can help. One alternative goes back to the 18th century French intellectual Jean-Charles de Borda. A few years before he crossed the ocean to help the Americans fight against the British, he invented a system of voting that we now call the Borda count.
+
+In the Borda count, every voter ranks each candidate on the ballot, from top choice (No. 1) to least favorite. The ranks for each contender are then added up and the candidate with the lowest score is declared the winner. If the GOP primaries had used this system of voting we could figure out how, say, Marco Rubio's supporters would vote after he dropped out of the race, and that could determine whether Trump's or Cruz's argument holds water.
+
+Borda's system isn't the only way to address the issue. Another is “range voting,” where each voter gives a numerical score to each candidate. For example, a committed #NeverTrump voter might give 6 points to Cruz, 4 to Kasich, and 0 to Trump. This is a little more complicated, but elicits even more information from the voters. Not only do we know the voter's second choice, we also know how strong a choice it is relative to Trump.
+
+Here's the situation: With more than two candidates, it is possible to have the largest number of votes while not having a majority.
+
+Unfortunately, the Borda count and range voting will not save us from all of our electoral troubles. Two famous mathematical discoveries offer a bleak view of creating a completely fair democratic system. The first result, discovered by the Nobel Prize-winning economist Kenneth Arrow in the 1940s, shows that no system of voting will be completely fair when there are more than two candidates. It doesn't matter how sophisticated your design, or how many questions you ask the voters, you'll never be able to create a procedure that's guaranteed to appear evenhanded in every election. There will always be the opportunity for someone such as Trump to claim “the system” is unfairly rigged against them.
+
+The second mathematical result, discovered three decades later in the 1970s by a philosopher, Allan Gibbard, and an economist, Mark Satterthwaite, shows that every voting system is subject to gaming. That is, a smart block of voters might lie about their preferences to help their candidate.
+
+This manipulation of the system is called strategic voting, and it's a real world problem. Mitt Romney has asked Republicans to vote for the candidate most likely to beat Trump, even if that candidate isn't their favorite. Romney voted for Cruz in the Utah primary, not because he wanted Cruz to win, but because Cruz was more likely to beat Trump in the balloting.
+
+Unfortunately, alternative voting systems can't protect us against strategic voting. If we were using the Borda count, Trump supporters might lie and rank Kasich as their second choice, even though they preferred Cruz to Kasich, in order to hurt Cruz's numbers in the election. No matter what voting system you use — Borda count, range voting or our outdated system of plurality voting — strategy will always be a factor.
+
+In one way these discoveries are a relief: We don't have to worry about being perfect because — as a matter of indisputable mathematics — we can't be. On the other hand, it means we must decide what flaws to accept in our system. But one thing is clear: Our current system is far more broken than it has to be. It allows candidates such as Trump and Cruz to both claim to represent the majority of their party, and it allows them to both be right.
+
+Kevin Zollman is an associate professor of philosophy at Carnegie Mellon University and co-author of "The Game Theorist's Guide to Parenting."
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

@@ -1,0 +1,35 @@
+Partisan gerrymandering — the drawing of legislative districts to benefit one political party at the expense of another — is a venerable feature of American politics. It’s also an insidious and anti-democratic practice.
+
+Especially with the advent of sophisticated computer programs, districts can be designed so that a party can exercise influence in a state legislature or congressional delegation obscenely out of proportion to its overall support — while satisfying the “one-person, one-vote” requirement that districts be roughly the same size.
+
+For example, under a redistricting plan approved by North Carolina’s Republican-controlled legislature, that state elected nine Republicans and four Democrats to the U.S. House in 2012 — even though 51% of North Carolina voters cast ballots for a Democrat.
+
+Another consequence of gerrymandering is a lack of competition between the parties on election day. According to the nonpartisan Cook Political Report, only 56 races for the U.S. House out of 435 contests this year are considered competitive. It's easy to game the outcome of elections by creating districts that are either “packed” with a surplus of voters of one party or “cracked” so there aren't enough members of that party to make a competitive election possible.
+
+Either way — to borrow a phrase often heard in this year’s presidential campaign — the system of congressional districting in too many states is rigged. But the federal courts, which long have intervened in the drawing of district lines to guard against the abridgment of voting rights on the basis of race, have been skittish about tackling partisan gerrymandering.
+
+In 1986, the U.S. Supreme Court ruled that partisan gerrymandering could be challenged as unconstitutional if it involved “intentional discrimination against an identifiable political group and an actual discriminatory effect on that group.”
+
+Yet in that case the court didn’t actually find such a violation, and in 2004, four justices led by the late Antonin Scalia said that the court should essentially stop looking. Scalia argued that the court should overturn its 1986 decision and admit that “no judicially discernible and manageable standards for adjudicating political gerrymandering claims have emerged.”
+
+Fortunately, Scalia’s expression of futility 12 years ago was not the last word. As partisan gerrymandering continues to marginalize voters and paralyze the political process, courts have been forced to look at the issue anew. Two cases demonstrate that this problem is not going away.
+
+One comes from North Carolina, where Republican legislators recently tweaked the map mentioned above after a court held that it constituted a racial gerrymander. But, like the previous version, the new map provides a lopsided advantage for Republicans and has provoked claims of unconstitutional partisan gerrymandering. One legislator involved in the latest redistricting acknowledged that “we are going to use political data … to gain a partisan advantage on the map.”
+
+Meanwhile, Republicans in Maryland allege that a congressional map adopted by that state’s Democratic-controlled legislature in 2011 violated their constitutional rights. The new map changed the borders of one district traditionally represented by a Republican so that it no longer included 65,000 registered Republican voters but did include 30,000 new Democratic ones. In the 2012 election, the district was won by a Democrat, reducing the number of Republicans in the state’s eight-member delegation from two to one. Last week, a three-judge federal court ruled that the case should go to trial.
+
+It’s too soon to say that days of partisan gerrymandering are numbered. But it’s significant that the Supreme Court last year unanimously rejected a claim that the Maryland suit couldn’t go forward.
+
+Also, while past arguments against partisan gerrymandering have emphasized the Constitution’s guarantee of equal protection of the laws, opponents of the Maryland map are focusing on the 1st Amendment’s free-speech protections. (Challengers to the North Carolina plan also make a 1st Amendment argument.)
+
+That approach echoes Justice Anthony M. Kennedy’s opinion in the 2004 case. Kennedy emphasized that allegations of partisan gerrymandering “involve the 1st Amendment interest of not burdening or penalizing citizens because of their participation in the electoral process, their voting history, their association with a political party, or their expression of political views.” When legislators move voters from one district to another because of the way they have voted in the past — and the way they are expected to vote in the future — that certainly looks like what is known as viewpoint discrimination.
+
+If and when the high court revisits partisan gerrymandering, it will need to address an objection raised by Scalia in the 2004 case: that, unlike race, “political affiliation is not an immutable characteristic, but may shift from one election to the next; and even within a given election, not all voters follow the party line.”
+
+That’s true, but if party loyalties didn’t exist and persist over time in geographical areas, gerrymandering wouldn’t be such a popular tactic.
+
+Judicial intervention isn’t the only way to address partisan gerrymandering. For instance, some states, including California, have taken the drawing of congressional districts out of the hands of state legislatures and entrusted them to citizens’ commissions, an option the Supreme Court declared constitutional last year.
+
+But, as in other areas, the Supreme Court must be willing to step in where the other branches of government refuse to act.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

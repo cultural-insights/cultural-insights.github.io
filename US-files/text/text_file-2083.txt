@@ -1,0 +1,41 @@
+The global digital assembly line has arrived. Its workers labor at computer keyboards, performing the behind-the-scenes tasks that make the Internet appear intelligent and functional. They assign labels like “family” or “theme park” to photos, check that Web URLs work, verify addresses on Yelp, review social media posts flagged as “adult.”
+
+Corporations, from the smallest start-ups to the largest firms, can now “taskify” everything from scheduling meetings and debugging websites, to finding sales leads and managing fulltime employees' HR files. Instead of hiring help, firms just post their needs to the Web.
+
+------------
+
+FOR THE RECORD
+
+Taskified Work: An article on Jan. 10 misstated the age of Riyaz Khan. He is 35, not 32.
+
+------------
+
+This online piecework, or “crowdwork,” represents a radical shift in how we define employment itself.
+
+The individuals performing this work are of course not traditional employees, but neither are they freelancers. They are, instead, “users” or “customers” of Web-based platforms that deliver pre-priced tasks like so many DIY kits ready for assembly. Transactions are bound not by employee-employer relationships but by “user agreements” and Terms of Service that resemble software licenses more than any employment contract.
+
+Researchers at Oxford University's Martin Programme on Technology and Employment estimate that nearly 30% of jobs in the U.S. could be organized like this within 20 years. Forget the rise of robots and the distant threat of automation. The immediate issue is the Uber-izing of human labor, fragmenting of jobs into outsourced tasks and dismantling of wages into micropayments.
+
+In the U.S. and overseas, crowdwork payments can mean the difference between scraping by and saving for a home or working toward a degree. But as Riyaz Khan, a 32-year-old from a small town in the coastal state of Andhra Pradesh in India, discovered, doing work on spec posted by someone you'll never meet and who has no legal obligations to you has serious disadvantages.
+
+My team at Microsoft Research spent two years studying the lives of hundreds of American and Indian crowdworkers like Khan to learn how they manage this nascent form of employment and the capriciousness that comes with it. Khan, when we met him, had spent three years finding work on Amazon Mechanical Turk. AMT is one of the largest online marketplaces that connect “providers” from around the world like Khan with “requesters,” typically U.S. or European businesses or individuals. He did tasks for companies as big as Google and as small as neighborhood print shops.
+
+On good days, he made $40 in 10 hours — more than 100 times what neighboring farmers earned. He soon found more tasks than he could complete himself. So he hired locals to work with him out of his living room. In exchange for a cut of their pay, Khan helped his crew create their own accounts, taught them how to complete tasks efficiently, and ferreted out tasks that best matched his workers' skillsets. He also handled any final queries after the completed task was submitted. They called themselves Team Genius.
+
+Three years in, now dependent on this income to support family and friends, Khan heard worrying tales of Indian workers' AMT accounts being shut down. One by one, members of Team Genius lost their accounts.
+
+Then it happened to him. An email from Amazon's Customer Service Team offered no explanation beyond: “I am sorry but your Amazon Mechanical Turk account was closed due to a violation of our Participation Agreement and cannot be reopened. Any funds that were remaining on the account are forfeited, and we will not be able to provide any additional insight or action. You may review the Participation Agreement/Conditions of Use at this URL: http://www.mturk.com/mturk/conditionsofuse. Thank you for trying Amazon Mechanical Turk. Best regards, Laverne P. We value your feedback, please rate my response using the link below.''
+
+Using a “Contact Us” link, Khan sent several messages pleading his case. He received auto-replies thanking him for his patience, but no information about how to appeal or retrieve the funds he'd banked with AMT for completed tasks over the last two months. Instead, he was referred to the agreement's “Restrictions and Limitations” clause, which grants AMT the “right to terminate or suspend any Payment Account… for any reason in our sole discretion.”
+
+Forget the rise of robots and the distant threat of automation. The immediate issue is the Uber-izing of human labor, fragmenting of jobs ... and dismantling of wages.
+
+Such policies are not unique to AMT. Using Terms of Service and Participation Agreements as guidance for when — or whether — to pay people for work they have satisfactorily completed is standard practice in the crowdworking sphere. In the absence of any legal definition of the rights and responsibilities of parties involved, these account and service agreements are the default labor laws.
+
+Six months later, without explanation, Khan received his final paycheck. Other members of Team Genius, unsure how to pursue resolution, got stiffed. None ever found out exactly why AMT suspended their accounts, although I suspect they know what parts of the Participation Agreement they broke. Practices such as automating the acceptance of tasks, or transferring an account to another person violate AMT's rules but are widespread among those in the United States and India alike who are trying to cobble together a full-time living.
+
+Khan's experience should be a warning to us all. Crowdwork may seem like a small eddy of employment, contained to those who work on computer code and Web development. But it looms like a tsunami of change for anyone whose routine work — filing forms, drafting standardized reports, coordinating events — can be broken into bits and farmed out online.
+
+We must recognize that crowdwork sites are not just technologies that deliver convenient services. They are sites of employment that encompass the globe. Yet there are no clear rules for how this new form of employment should operate. As Team Genius' case demonstrates, the right to be paid for one's labor is no longer guaranteed. Centuries of global labor activism, from child labor laws to workplace safety guidelines, are left vulnerable.
+
+The Amazons, GrubHubs, Upworks, and Ubers that profit from brokering this new work relationship certainly bear some responsibility. More broadly, state and national governments need to reset their labor rules and reweave social safety nets. This is not a simple matter of re-classifying crowdworkers as employees; rather we need to move beyond the fulltime-freelance divide. Businesses (and their customers) demand an all-hours, at-the-ready workforce. But to get that, workers need portable healthcare, a basic income, paid leave and retirement plans.

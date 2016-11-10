@@ -1,0 +1,33 @@
+In 1953, newspaper attorney Harold Cross authored a report titled “The People’s Right to Know,” in which he made the case for government transparency. “Public business is the public’s business,” he wrote. “Freedom of information is their just heritage. Without that, the citizens of a democracy have but changed their kings.”
+
+His report came out amid Cold War paranoia and heightened government secrecy, when Washington had gone so far as to classify the amount of peanut butter that U.S. forces consumed. But Cross’ efforts, alongside the tireless advocacy of Congressman John Moss, led President Lyndon B. Johnson, on July 4, 1966, to sign a law guaranteeing the public’s right to obtain government information: the Freedom of Information Act.
+
+This week, the FOIA turned 50. Over the past half-century, the act has been instrumental in revealing government overreach and negligence, and it has provided a vital tool for scholars seeking to correct the historical record.
+
+But the FOIA remains plagued by problems: crippling delays, hefty fees and outdated technology — not to mention expansive loopholes that federal agencies routinely exploit to deny legitimate requests.
+
+The statistics are staggering. Government agencies deny nearly half of all applications, and they heavily redact many of the documents they do release. In 2014, they improperly withheld an estimated 154,750 requests, and the backlog soared to a record 159,741 requests. At least one has been pending for 23 years.
+
+Too often, agencies invoke laughable excuses to retain documents. In 2014, the U.S. Court of Appeals for the D.C. Circuit ruled that a 30-year-old volume of a CIA history on the Bay of Pigs could be withheld because, as the CIA argued, it might “confuse the public.” In response to a request from Human Rights Watch for data on deportations, Immigration and Customs Enforcement claimed that fulfilling the request would cause the agency to “virtually grind to a halt.” After the advocacy group appealed the decision, ICE promptly handed over the information without any apparent difficulty.
+
+In 2014, the U.S. Court of Appeals ruled that a 30-year-old volume of a CIA history on the Bay of Pigs could be withheld because 'it might confuse the public.'
+
+These problems stem from obvious — and fixable — flaws. The first is federal agencies’ poor use of technology. In 2008, a survey of government agencies found that none kept consistent electronic records. Today, agencies still print and physically file emails to keep a record of them. In 2011, the State Department saved a mere 0.00006% of its emails.
+
+The second is a lack of oversight. Different agencies exercise broad discretion in responding to FOIA requests, and there is no independent organization to enforce consistency. In 2015, for example, Human Rights Watch requested identical information from each branch of the armed forces. The Air Force demanded $168,316 in processing fees; the Army asked for $1,584.
+
+Technically, the Department of Justice’s Office of Information Policy is tasked with overseeing the Freedom of Information Act. But the Justice Department has been antagonistic toward it from the start, testifying early on that the act was unconstitutional. The OIP’s director, Melanie Pustay, insists the FOIA “works well for many requesters,” and the department recently awarded itself five points out of five for its “proactive” release of records. (Hearing this, Jason Chaffetz, chairman of the House Oversight and Government Reform Committee, told Pustay: “You live in la-la land.”)
+
+The final problem is the ease with which agencies can refuse legitimate requests. Under Exemption Five, also known as the “withhold it because you want to” rule, agencies can suppress internal communications that would be inconvenient or incriminating — or simply difficult to process — on the grounds that they constitute an “interagency or intra-agency communication” or “draft.”
+
+Of course, agencies sometimes have legitimate reasons for withholding information — national security, for example. Yet too often, agencies err on the side of excessive secrecy. In 2014, agencies cited exemptions more than 550,000 times.
+
+In June, President Obama signed a bill designed to close some of these loopholes. Under the bill, agencies are allowed to withhold information only when there is a foreseeable harm to releasing it, codifying a presumption of openness. The bill prevents agencies from using Exemption Five for information older than 25 years, and it creates a centralized online portal for all FOIA requests.
+
+But there is more to be done. The bill does not authorize any new funding to help agencies comply with the amendments, even though they need money to process backlogged requests, hire new FOIA officers and invest in recordkeeping. Nor does the bill include penalties for agencies that miss deadlines for responding to FOIA requests, creating little incentive for them to change their approach.
+
+What’s needed, ultimately, is a shift in priorities: The Freedom of Information Act must become a central part of every agency’s mission. Perhaps then it can truly live up to its promise, as Johnson articulated a half-century ago. “No one should be able to pull curtains of secrecy around decisions which can be revealed without injury to the public interest,” he said. “The United States is an open society in which the people’s right to know is cherished and guarded.”
+
+Nikita Lalwani is a former staff editor at Foreign Affairs and freelance writer. Sam Winter-Levy is a staff editor at Foreign Affairs.
+
+Follow the Opinion section on Twitter @latimesopinion or Facebook

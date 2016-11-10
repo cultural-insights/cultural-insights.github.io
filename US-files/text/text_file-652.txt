@@ -1,0 +1,27 @@
+The digital revolution was supposed to create an age of empowered microentrepreneurship, with power devolving to the masses. Instead, we’ve got the new Robber Barons: Amazon, Apple, Facebook and Google, with Uber and a few others trying to join this profitable circle of global oligopolies.
+
+In the United States, Amazon increasingly dominates the retail landscape. It handles about 40% of all book sales. For online sales of all merchandise, Amazon’s market share keeps increasing; it’s estimated that, for each additional dollar Americans spend online this year, about 50 cents will be spent with Amazon. Its market value is now about $300 billion.
+
+As with Amazon, Facebook has immense power over suppliers who reach customers using its platform. Facebook’s market value is $300 billion. It has 1.5 billion users worldwide, and an estimated 40% share of the social media market. On average, users spend almost an hour per day on Facebook. And about 40% of Americans get at least some of their news via the social network.
+
+The statistics for Google and Apple are equally impressive. Each of these companies benefits from some combination of large upfront investment costs, low marginal costs, and network effects – the traditional recipe for a monopoly or oligopoly. At this stage, it would be immensely difficult financially for a new entrant to compete.
+
+These factors provide the new Robber Barons with the ability to take advantage of their suppliers, employees and customers. This isn’t just an abstract concern about what could possibly happen in the future – Apple and Google have already admitted to colluding to depress employee wages. And working conditions in Amazon’s warehouses seem, at times, a throwback to 19th century capitalism.
+
+Market power of this magnitude isn’t unprecedented; we’ve faced similar challenges in the past.
+
+Before the rise of cable, TV was only distributed via airwaves. Under the best circumstances, broadcasting companies were going to have oligopoly power: There was only a limited electromagnetic spectrum. But the government prevented monopolies by limiting the number of broadcast licenses any one company could own, either nationally or in a local market. It also dealt with the possibility that station owners would use their broadcasting power to manipulate political events by imposing the Equal Time Rule (broadcasters must provide equivalent opportunities to all political candidates) and the Fairness Doctrine (broadcasters must present both sides of controversies of public importance in an honest and balanced manner).
+
+Similarly, the old Bell System had a monopoly on the telephone industry for most of the 20th century. If you wanted to contact someone by phone, you had to use the Bell System. The government first addressed Bell’s position through price regulation. Then in 1982, it broke up the company as part of a court-ordered settlement, setting the stage for actual competition, new technologies and, indirectly, our current telecommunications revolution.
+
+The original Robber Barons fought, on all fronts, to maintain their monopolistic advantage... Our new Robber Barons will likely react the same way.
+
+Government antitrust interventions have promoted innovation in the past, and should again be employed to make conditions more favorable for competitors and consumers.
+
+Let me offer a few suggestions:
+
+Break up companies with excessive market share. Broadcast TV, as noted above, was a natural oligopoly because of limited spectrum. Absent a compelling technological reason for a monopoly or oligopoly, the government should move to split up large companies. Amazon, for instance, could be split along product lines (a separate company for books, housewares, etc.), geographically (by regions), or vertically (with fulfillment centers separated from the rest of the company).
+
+Prevent large companies from using their significant market share to extract monopolistic rent. When the book publisher Hachette wouldn’t agree to Amazon’s terms, Amazon made it difficult for consumers to buy Hachette books. Giants shouldn’t be allowed to arbitrarily crush parts of their supply chain.
+
+Impose clear, fair and nonarbitrary rules concerning when monopolies and oligopolies can refuse to serve customers. Social media is an increasingly key part of how we communicate. Yet legally, nothing stops Facebook from simply banning users from its platform, for any reason it wishes. This isn’t a moot concern. When Facebook objected to some material the American Civil Liberties Union posted on its pages, Facebook suspended its account. The ACLU was able to get its account turned on again, but who knows how many less prominent advocacy groups have been prevented from communicating via the network.

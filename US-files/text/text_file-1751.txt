@@ -1,0 +1,31 @@
+Any hope that the Obama administration might try to de-escalate the fight with Apple evaporated Friday when the Justice Department asked a federal magistrate to compel the company to help the FBI crack the iPhone used by one of the terrorists who killed 14 people in San Bernardino in December.
+
+The motion seems premature, given that the order Tuesday (by U.S. Magistrate Sheri Pym in Riverside) requiring Apple to assist the FBI gave the company until next week to seek relief. But then, Apple invited this response.
+
+After Pym ordered the company, at the FBI's request, to load spoofed software onto Syed Rizwan Farook's iPhone 5C that would eliminate three crucial security features in the phone's operating system, Apple CEO Tim Cook said the company opposed the order and urged the government to "step back." And so began a furious battle between the company and the government to frame how the public would think about the dispute. Friday's motion by the Justice Department seems intended less for the court in Riverside than the court of public opinion.
+
+The deck starts off stacked against the Cupertino tech giant. At issue is an unknown amount of data on the smartphone of a murderous terrorist whose co-conspirator (his wife) declared fealty to Islamic State. The FBI argues that there may be clues on that phone to other potential assailants, and that without Apple's help, no one will ever find out.
+
+The more times Apple installs a spoofed operating system to help authorities hack into a phone, the greater the likelihood that the code will fall into the wrong hands.
+
+And as bad as these facts are for Apple, the implication is even worse: that someday there will be a locked iPhone with information that could prevent a deadly attack. And as we're learning from Farook's case, Apple may be the only player capable of helping the feds resurrect the data.
+
+The FBI's spin: Apple is putting its marketing needs and profits ahead of public safety. Circumventing the protections on a single iPhone at Apple's office in Cupertino to allow the FBI to hack its way in won't compromise anyone else's device, the FBI insists, but it will make it harder for Apple to portray its smartphone as a device that provides a perfect shield against the government's prying eyes.
+
+Apple's reverse English: The FBI's unprecedented request isn't merely a threat to personal privacy, it endangers the security of anyone who has sensitive personal information on a digital device -- in other words, just about everyone.
+
+According to Apple, the courts have never before ordered a company to create a product or technology in order to help the government retrieve the information it's seeking. And if the FBI prevails here, the requests won't stop with Farook's phone. That's demonstrably true; law enforcement officials across the country have hundreds of iPhones that they're eager to mine for evidence.
+
+It's not a bad thing for investigators to use the tools the courts give them. But the more times Apple (or Google, should it be on the receiving end of a similar order) installs a spoofed operating system to help authorities hack into a phone, the greater the likelihood that the code will fall into the wrong hands. And as soon as it does, the race will be on to adapt the code into malware that can unlock the secrets on tens of millions of other devices.
+
+That's how an issue that seemingly concerns only the privacy interests of suspected or known criminals morphs into a security issue for the public at large. And as senior Apple executives said in a conference call Friday, that security issue can be a very personal one. Among the personal data found on a phone are records of where the user has been -- and where he or she may be at that very moment.
+
+Are such arguments a scare tactic? Maybe. Yet it's undeniable that as connected digital devices become more deeply integrated into daily lives, people, companies and institutions are becoming increasingly exposed to hackers who are malicious, relentless and far more numerous than the Farooks of the world.
+
+Granted, the harm caused by Farook is far, far worse than that caused by identity thieves. But considering what happened at Hollywood Presbyterian Medical Center, whose computer systems were taken over by hackers earlier this month, the risks posed by cybercriminals are rising. The public needs better cybersecurity practices -- and more secure devices.
+
+Ultimately, Congress is going to have to decide whether companies such as Apple can be forced to defeat the security schemes they devise, and under what circumstances. In the meantime, the current generation of iPhones is even tougher to crack than Farook's. As heated as the current fight seems, the one over the iPhone 6S could make it seem tame by comparison.
+
+Email Jon Healey
+
+Follow Healey's intermittent Twitter feed: @jcahealey

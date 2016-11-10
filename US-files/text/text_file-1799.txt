@@ -1,0 +1,37 @@
+The results of a big physics experiment have delivered a long-sought, hard-won and resounding victory to Albert Einstein, confirming yet again that the revolutionary theory of gravitation he put forward a century ago is the real deal. The findings cement Einstein's near-mythical stature as one of the greatest scientists of all time.
+
+In 1915, after almost a decade of work, Albert Einstein outlined his sensational gravitation theory, which he called “general relativity.” It characterized gravity as the result of the curved geometry of space and time, and it predicted the existence of gravitational waves. After years of searching, the Laser Interferometer Gravitational-Wave Observatory, or LIGO, finally observed gravitational waves from two colliding black holes.
+
+The discovery was announced Thursday by the 1,000-strong team of LIGO scientists. To make the discovery more tangible, the team had converted its gravitational wave signal into audio, and the world heard the sound of two black holes merging. “This was a scientific moonshot,” said David Reitze, LIGO's executive director, “and we did it. We landed on the moon.”
+
+Scientists knew ... they would have to build an extremely delicate instrument and look for the most violent phenomena in the universe.
+
+Gravity was discovered and first explained by Isaac Newton in the 17th century. (Every schoolchild has heard the story, most likely apocryphal, of Newton and the falling apple.) Newton's theory provided the framework for explaining Galileo's observations of the moons of Jupiter and Johannes Kepler's planetary laws. It also proved to be great at explaining lunar tides, the orbits of comets, the gradual change in the orientation of the Earth's axis — and why we don't fall off the Earth. It led the French mathematician Urbain Le Verrier to infer the existence of a unseen planet in the 19th century; it turned out to be Neptune.
+
+Yet Newtonian gravity had its limitations. The planet Mercury's point of closest approach (called perihelion) changed as it orbited the sun. For 150 years, astronomers noticed this anomaly and couldn't explain it using Newton's law.
+
+But Einstein was able to explain Mercury's odd behavior as a result of space-time curvature near the Sun. Einstein's theory also predicted that the apparent positions of distant stars would change during a solar eclipse, as the sun's gravity bent the light from the stars. British astronomer Arthur Eddington's experimental confirmation of this effect during the solar eclipse of May 1919 catapulted Einstein to global fame.
+
+Einstein said gravity is basically acceleration in a four-dimensional fabric called space-time. Space-time has the three familiar spatial dimensions — length, breadth and width — and time makes up the fourth dimension. A massive object such as a star distorts the fabric of space-time by producing a dip, just as a lead ball would produce a dip in an elastic sheet of rubber. The heavier the ball, the bigger the dip; the more massive the object, the bigger the distortion of space-time. As any other body approaches a star, its path would follow the contours of the curvature of space-time, which is perceived as an acceleration: gravity. And when a massive object accelerates, Einstein said, it would produce gravitational waves, ripples in space-time.
+
+The theory was elegant, but actual detection of gravitational waves proved to be extremely difficult. Gravity is an extremely weak force compared with other forces in physics, such as electromagnetism. The gravitational attraction between a proton and an electron is one thousand trillion trillion trillion times smaller than the electrical attraction between them. So gravitational wave experiments had to be incredibly sensitive.
+
+In the 1960s, American physicist Joseph Weber claimed to have detected gravitational waves, but his claim was later discredited.
+
+Yet there was indirect evidence for their existence. In 1974, Russell Hulse and Joseph Taylor, found a system of two extremely dense stars orbiting each other. Their orbits evolved in a way that could be explained only if gravitational waves were carrying off some of their energy.
+
+Scientists knew that if they were to try to observe gravitational waves from Earth, they would have to build an extremely delicate instrument and look for the most violent phenomena in the universe. Theory predicted that two colliding black holes would produce a cataclysmic burst of gravitational waves.
+
+This is exactly what they have found using LIGO. LIGO (or, more accurately, Advanced LIGO, because the observatory was recently updated) operates on the principle that a gravitational wave stretches space in one direction while compressing it in another. LIGO has two locations, in Livingston, La., and nearly 2,000 miles away in Hanford, Wash. Two tubes are arranged in the shape of an L at each site. Scientists split a laser beam and send half of it along each tube. After being amplified within the tube, each split beam strikes a mirror at the end. The light is then reflected back and forth down the tubes a few hundred times before being sent back to where it originated. When the two light beams return, under ordinary circumstances, they should cancel each other out (the peaks of one half beam should coincide with the troughs of the other half). The situation changes if a gravitational wave arrives. The half-beams no longer cancel each other, instead producing a spike of light.
+
+LIGO saw this telltale spike of light on Sept. 14, emanating from the merger of two black holes about 1.3 billion light-years away. With the memory of Weber never far away, the team checked and rechecked its findings. The signal withstood all checks.
+
+Scientists had finally found gravitational waves, and vindicated Einstein. Again.
+
+As he refined his theory, even Einstein had some doubts about gravitational waves, but he remained supremely confident about the underlying general theory of relativity.
+
+Shortly after Eddington's observations confirmed that light was indeed bent by gravity, a student asked Einstein what he would have done if general relativity had failed in its description of nature. Einstein, invoking the Almighty, is supposed to have said, “Then I would have been sorry for the dear Lord. The theory is correct.”
+
+Saswato R. Das writes about science and technology.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

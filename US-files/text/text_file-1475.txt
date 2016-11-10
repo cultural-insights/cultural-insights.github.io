@@ -1,0 +1,29 @@
+Embarrassing polling flubs seem increasingly common. Going into the Michigan primary, surveys showed Hillary Clinton leading Sen. Bernie Sanders among likely voters by double digits, only to have Sanders pull off a stunning two-point victory on March 8. A similar forecasting failure befell the British elections last year, when pollsters predicted a neck-and-neck race between the Conservative and Labor parties resulting in a divided government, only to have the Conservatives win a simple majority. These are but two examples of a more global trend.
+
+It's not hard to find precise technical explanations for any given discrepancy between polling forecasts and election day results. But I prefer to think of these blunders as the downstream consequences of large-scale social and technological changes, which affect how the public consumes polls and how pollsters conduct them.
+
+Americans as a whole decided they were too busy to answer survey requests and became more wary of strangers asking probing questions.
+
+Thirty years ago, polling in the United States was simple. Most homes had land-line telephones, most people at home actually answered the phone and more than 70% were willing to participate. Polling life was sweet; it was easy to find a representative sample of likely voters.
+
+Like all boom times, a bust was just on the horizon. The new millennium arrived, introducing a renaissance of new technologies (cellphones, the Internet) and lifestyles (social media, crowdsourcing). Younger adults embraced new ways of consuming and sharing information. Americans as a whole decided they were too busy to answer survey requests and became more wary of strangers asking probing questions. Polling participation rates plummeted to single digits.
+
+As Americans started sharing less data about themselves, they also started demanding more. We are a data-rich, data-driven society. We rely on smartphone apps for crowdsourced product ratings, quick takes on the news, and for communicating instantaneously to personalized worldwide networks. Just as we expect that Google Maps will immediately give us accurate directions to the nearest Starbucks, we expect pollsters to provide accurate election predictions whenever we care to search for them.
+
+Accordingly, the media and candidate campaigns have pressured pollsters to provide results cheaper and faster. Some pollsters have adopted robo-calling technology, increasingly complex statistical modeling and just about anything that circumvents human-to-human interaction. It is now common for Internet-users to be recruited via a pop-up survey request — a great way to secure an unrepresentative sample. The Google Surveys product (which correctly forecasted the 2012 elections) not only uses a pop-up recruitment strategy, it also reduces participant burden by attaching proxy demographics based on the participants' personal search histories. Many of these new approaches are untested, and some are downright fishy.
+
+Meanwhile, pollsters' ability to predict likely voters has declined. Traditionally, pollsters rely on the adage: “The best predictor of future performance is past performance.” But advances in technology and their associated changes in population behavior — including how social media influences candidate choice and motivation to vote — can't be readily baked into the conventional statistical methods used to figure out who will or will not show up on election day.
+
+Donald Trump and Bernie Sanders, for instance, have exploited Facebook and Twitter to fuel public interest in their campaigns. Groups who historically have voted less frequently are now heading to the polls en masse to support these candidates, which goes a ways to explain why, for instance, Sanders upset Clinton in Michigan or why Trump exceeded expectations in New Hampshire.
+
+There are, of course, many potential sources of error in electoral polling. The technical explanations, however, mask the fundamental changes that are driving the inaccuracies we have witnessed and will continue to experience.
+
+At least the news isn't all bad. Electoral polls are a part of our culture. Researchers will continue to improve existing methods, create innovative ones and debunk others. Inaccurate election forecasts may well increase in the near future and not abate for some time. But we will still be able to use polling to identify and understand public sentiment on important policy issues. These insights are arguably more important than predicting a particular horse race.
+
+So, where does this leave us?
+
+We should consider the source before trusting a poll, much like we do stock market tips or sports picks. Polling organizations that are members of American Assn. for Public Opinion Research's Transparency Initiative provide a standard level of technical disclosure about their methods for anyone who is interested in getting into the weeds. Regardless, while pollsters scramble to build a better mouse trap, we should be cognizant that election forecasts can and will continue to fall short. We should avoid using them to pick among candidates. And, of course, we should all get out and vote.
+
+Rob Santos is the Urban Institute's chief methodologist, vice president of the American Statistical Association, and a past president of the American Association for Public Opinion Research.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

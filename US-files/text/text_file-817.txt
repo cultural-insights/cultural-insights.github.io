@@ -1,0 +1,11 @@
+The Obama administration moved one step closer Thursday to giving up the last vestige of U.S. control over the Internet. It’s not a big step in practical terms, but symbolically it’s a big deal.
+
+At issue is a Commerce Department contract that seemingly allows it to manage a crucial Internet function: the global master list of “top level domains,” such as .com and .net, that directs traffic online. But the contract with the nonprofit Internet Corporation of Assigned Names and Numbers doesn’t give the U.S. much discretion; instead, it merely allows the feds to verify that the right procedures and policies were followed before any changes are made to that master list.
+
+Nevertheless, even that minor role has given some repressive regimes a pretext to push for more control by governments over other aspects of the Internet, such as the rules for privacy, security and data storage. Former NSA contractor Edward Snowden’s revelations, meanwhile, led officials in some other countries to oppose any U.S. government involvement in the Internet at all.
+
+Against that backdrop, the Obama administration proposed in 2014 to transfer oversight of the master list of domains to a “multistakeholder” group that could not be controlled by any government and would not diminish the Internet’s openness, stability or security. ICANN worked with a broad array of Internet users and other stakeholders to develop a proposal of its own, along with new rules aimed at making ICANN’s governing body more accountable to Internet users. On Thursday, the Commerce Department gave ICANN’s proposal a conditional thumbs up, with the final details to be worked out over the coming months.
+
+Some conservatives argue that the U.S. involvement in domains is crucial to preserving an open Internet, and the House Appropriations Committee has proposed to maintain the status quo. But keeping the Commerce Department’s nominal role in domain names would only encourage other governments to remake the Internet to their liking, either through technological barriers or through intergovernmental organizations such as the United Nations. If it truly loves the open Internet, Congress will let it go.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

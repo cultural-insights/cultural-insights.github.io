@@ -1,0 +1,27 @@
+The gun control movement's latest hobby horse is the smart gun. President Obama included federal support for smart gun research in his recent executive orders, delighting activists who insist that a locking mechanism capable of preventing criminals from firing stolen weapons would surely be popular with gun buyers — if only the gun industry would drop its opposition.
+
+The bad news for anyone looking to the smart gun as a technological quick fix for gun violence is that, absent a government mandate requiring all guns to be “smart,” a robust market is unlikely to materialize. And even if new laws were to require that all new firearms include smart gun tech, many proposed smart systems would actually make us less safe.
+
+The primary objection that American gun buyers have to smart guns is that any integrated electronic locking mechanism will necessarily decrease a gun's reliability by introducing more points of failure. Smart gun proponents are quick to dismiss these concerns as overblown, but they don't seem to understand how all-important reliability is to gun buyers, or how difficult it is for even premium gun makers to mass-produce weapons that will function smoothly under the most adverse conditions.
+
+Every gun owner who has put enough rounds down range has had his favorite firearm fail to go "bang" when he pulled the trigger.
+
+Every gun owner who has put enough rounds down range has had his favorite firearm fail to go “bang” when he pulled the trigger. These failures can happen to the very best semiautomatic weapons in the final round of a competition, in the heat of battle, or when a trophy buck is in the hunter's sights. Weapon malfunctions are such a widely acknowledged reality that basic training courses typically explain how to rapidly troubleshoot such failures during a gunfight.
+
+Gun owners are terrified of anything that might make their guns less reliable. And when they consider the frequency with which their $700 smart phone's fingerprint scanner fails when presented with a clean, dry, perfectly-positioned thumb, they rightly conclude that putting any type of electronic lock on their Glock will likely make them less secure, not more.
+
+For the sake of argument, however, let's say that the reliability objection to smart gun technology has been definitively addressed, and that there exists an electronically lockable gun that's practically flying off the shelves. Such technology would not dependably stop unauthorized users from firing stolen weapons, for the simple fact that every piece of locked-down consumer technology that has ever been introduced — from the DRM schemes that encrypt Blu-ray disks to the software locks intended to keep users from installing illicit software on their iPhones — has been “jailbroken” and can be defeated by anyone with a little time and access to YouTube.
+
+As impossible as sealed electronic gadgets are to secure against tampering, guns are even more hopeless, because firearms are mechanical devices that are designed to be disassembled for regular cleaning and repair. Once a gun has been broken down, any component that prevents it from firing can be filed off, taped over, replaced, or otherwise circumvented. Smith & Wesson users, for instance, routinely remove the integrated mechanical locks that the Clinton administration convinced the gunmaker to add to its popular family of revolvers.
+
+Smart gun technology can and will be jailbroken — but that isn't even the worst consequence of this particular “safety” trend. The bigger problem lies with smart guns that are designed to connect to another device, either to obtain permission to fire or to alert authorized users to the gun's location.
+
+Technology companies warn that if they create a “back door” in their encryption products for government agents, they're also creating a possible “back door” for criminals. Just so, any capability we give authorized gun users can and will be exploited by unauthorized users.
+
+With this in mind, a gun like the one proposed by the president in his recent speech, which can broadcast its location when stolen, seems like a spectacularly bad idea. If the authorities can locate or disable a firearm remotely, then the bad guys can, too. Imagine a criminal with a laptop casing a crowd or a row of homes, looking for the tell-tale wireless signature of a hidden gun. Even if the gun doesn't connect to a network and is instead secured by RFID technology, it's hardly invulnerable. The same tools that identity thieves use to remotely read the RFID chips embedded in newer credit cards can be repurposed to target hidden weapons for theft.
+
+Genuine improvements in firearm safety are always welcomed by American gun owners, who know exactly how dangerous guns are in the wrong hands. But electronic locks that are likely to backfire on gun users, and that are vulnerable to exploitation by criminals, will be rejected by the market and, ultimately, by Congress.
+
+Jon Stokes is a founder of Ars Technica and the author of “Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture.”
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

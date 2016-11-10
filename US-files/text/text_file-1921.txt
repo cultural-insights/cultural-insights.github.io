@@ -1,0 +1,27 @@
+In the coming months, Los Angeles will become the latest American city to adopt a bike-share program. With a Metro-issued Transit Access Pass, or TAP card, users will be able to rent from a pool of 1,000 bicycles at over 60 docking stations throughout downtown Los Angeles.
+
+With Metro’s ridership numbers in steady decline over the past several years, the hope is that a new bike-share system could potentially give the system the jolt it needs — by providing a crucial new “first-mile, last-mile” option to connect people from their home or office to the nearest transit hub.
+
+In theory, bike shares offer a cheap, healthy, easy and green way to get around the city. In practice, however, some bike shares are more successful than others. It remains to be seen how well the concept will work in the nation’s automobile mecca.
+
+That said, we can draw some conclusions based on data from the more than 850 bike shares established worldwide in the past decade — and those conclusions, by and large, aren’t pretty.
+
+Bike shares elsewhere have proved only modestly helpful in achieving one of the long goals of L.A. planners — reducing car use. Instead, they the program has a much more significant impact on public transit use. For instance, were a bike share unavailable, nearly 60% of bike-share users in London say they would rely on public transport instead; only 2% to 3% would have driven a car. Washington, D.C., and Melbourne, Australia, bike shares have seen similar trends.
+
+Obviously transit planners would be thrilled if a bike share could take 2% to 3% of cars off L.A.’s streets. But the city’s initial foray into the bike-share world isn’t ambitious enough to pull off anything close to that. The program will boast far fewer bikes per capita than most other cities. Denver, a sprawling city not unlike L.A., has 20 times fewer people but almost the same number of bicycles for rent. New York and Paris, whose populations are more comparable to L.A.’s, offer five and 17 times as many rentals, respectively.
+
+Then there’s the issue of integration with existing mass transit. L.A.’s planned bike share is mixed on that score. Metro has yet to explain why it chose a bike-share system incompatible with the system that now serves Santa Monica, Venice, Long Beach, UCLA and elsewhere. Furthermore, Metro has opted not to offer transit users the unified fare structure that some experts hoped for. Instead, TAP cards will carry two separate balances: one for transit, the other for the bike share. Critically, the current plan provides no direct financial incentive for riders to combine a bus or rail trip with a bike ride.
+
+The most important component of any bike-share system is its cost — not to the city, but to users. (The percentage of the cost of bike shares recovered by fares varies wildly, from under 10% in Austin, Texas, to nearly all of it in D.C. The varying value of sponsorships accounts for much of the discrepancy). In any case, the $11-million contract awarded to Bicycle Transit Systems Inc. represents only a fraction of the Los Angeles County Metropolitan Transportation Authority’s $5.6-billion budget. Yet instead of generously subsidizing the program in an effort to earn user buy-in, Metro appears to be going in a different direction.
+
+L.A.’s bike share will allow users to pay for unlimited monthly passes, flex passes (with an annual fee and pay-per-trip), or pay for a single ride at a cost of $3.50. And there’s the rub. Almost two-thirds of Metro riders — the group most likely to use the bike shares — are low-income residents. As L.A. City Councilman Mike Bonin told KPCC in November, the single-ride fee “is probably going to be the trial option for most transit users, and I’m afraid it’s probably not the right price point for the typical transit user in L.A.”
+
+In other words, it’s far too expensive. L.A.’s single-ride fee is twice the base fare of a one-way bus trip.
+
+Thus, the dilemma: Why should a transit user heading downtown go through the trouble of switching mid-journey to a costly bike share, rather than complete the trip on transit at no additional cost? Unlike almost every other area of the city, downtown is densely covered by Metro and DASH routes, which run on weekdays as frequently as every five minutes. Hopping on a bike may eliminate an extra 10-minute bus transfer, but a $15-an-hour worker will have to spend an extra 15 minutes at their job pay for it. As far as first-mile, last-mile solutions go, this one makes little financial sense for most Angelenos.
+
+Even for Angelenos with money to burn, Uber offers a far more comfortable first-mile, last-mile service, at a comparable price point.
+
+One solution might be to lower the single-ride bike fee and ask taxpayers to subsidize the loss. Yet to succeed in the long term, the bike share needs to be not only affordable, but also geographically accessible. If fares are lowered, it may be difficult to fund the citywide expansion needed to continue attracting new riders and elicit more sponsorship funds.
+
+A second solution — only slightly more satisfactory — would be to make bike shares free for transit users. Unfortunately, nontransit users could then purchase transit passes to access bike shares at a lower-than-intended cost. Such a measure would encourage the misuse of transit subsidies, without providing a financial incentive for transit users to complete a portion of their trip by bike. Metro likely sought to avoid this when it rejected a unified fare structure.

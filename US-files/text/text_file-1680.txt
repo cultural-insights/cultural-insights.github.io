@@ -1,0 +1,25 @@
+While the media has reported on nearly every minutia of the ongoing litigation between Apple and the FBI, we seem to have lost sight of the bigger picture.
+
+This is not just about government investigators gaining access to the iPhone 5C used by Syed Rizwan Farook, one of the attackers who killed 14 people in San Bernardino late last year.
+
+It's not just about one technology company's right to conduct business as it sees fit, or even the rights of all technology companies.
+
+It's about Americans' broader rights to privacy.
+
+The FBI says its wants a backdoor for just one phone, but it's clearly trying to set a precedent.
+
+Allowing the government “backdoor” access to just this one phone would undo years of technological advances in online security.
+
+The Department of Justice is reportedly seeking court orders to make Apple unlock and extract data from as many as 12 other phones around the country, which sources familiar with the cases say weren't even used in acts of terrorism. Manhattan Dist. Atty. Cyrus Vance Jr. says he has as many as 175 iPhones that he would “absolutely” try to force Apple to break into if the government wins its San Bernardino case. The Los Angeles Times also reports that the Los Angeles Police and Sheriff's departments alone have hundreds of phones they'd like opened too.
+
+The FBI says its wants a backdoor for just one phone, but it's clearly trying to set a precedent. Both the FBI and the DOJ want law enforcement agents to have the legal authority and the technical capability to access any phone they suspect to contain information of value.
+
+Moreover, although the focus for the moment is on smartphones, the government's desire for backdoor technology could easily extend to every product that connects to the Internet and every computerized system, including the systems that protect our money, cars, identities, televisions and, increasingly, the systems that run our thermostats, refrigerators and even our lightbulbs.
+
+The proper place for this argument is not a courtroom in California, but in Congress where there can be public debate and full consideration. Indeed, the issue of mandating technological backdoors for government investigators is already a topic of vigorous discussion among the people's elected representatives in Washington. The emerging consensus is that a backdoor intended for use by law enforcement will inevitably, eventually be exploited by criminals. Creating this vulnerability would thus endanger Americans, giving not only government agents but also hackers access to our most intimate and carefully guarded personal information.
+
+Instead of weakening privacy protections, lawmakers should support legislation — like that which passed the House with overwhelming support on three separate occasions — prohibiting government-mandated backdoors that intentionally undermine and undercut the development and deployment of strong data security technologies.
+
+Zoe Lofgren is the senior Democrat on the House Judiciary Subcommittee on Immigration and Border Security. Darrell Issa is the Republican chairman of the House Judiciary Subcommittee on Courts, Intellectual Property, and the Internet.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

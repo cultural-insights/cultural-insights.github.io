@@ -1,0 +1,35 @@
+An aging population, coupled with low employment rates among Americans older than 62, poses severe challenges to the long-term sustainability of Social Security. Numerous reforms have been proposed to extend their working lives, including raising the retirement age. Such reforms may be unlikely to gain traction — not because people are so eager to retire, but because age discrimination sharply limits job opportunities.
+
+After decades of debate, most labor economists today accept that discrimination has played a role in limiting job market opportunities for minorities and women. There's been a steady buildup of evidence that is hard to refute. Most notably, in numerous field experiments, fictitious job seekers designed to be identical in every respect other than race or ethnicity apply for jobs either in person or online. Almost invariably the results show employers offering fewer jobs and interviews to minorities.
+
+What about older workers? Do employers likewise pass them over when they are equally qualified? The answer is critical to Social Security or any other reforms to public pensions that rely on keeping older workers on the job.
+
+To find out the answer, two colleagues and I modified the basic design of those earlier employment experiments to examine age discrimination. We created realistic but fictitious resumes for young (30s), middle-aged (50s) and older (around 65) job applicants. We specifically crafted variations on resumes that older workers present, including one that showed the common path of moving to a lower-skill job later in life (think, somewhat stereotypically, of store greeters at Wal-Mart).
+
+Then we submitted these resumes in response to ads for job categories that employ large numbers of fairly low-skilled workers of all ages. The jobs included administrative assistants and secretaries (to which we sent female applicants), janitors and security guards (male applicants), and retail sales (both genders).
+
+We leveraged technology to conduct our study on a massive scale. In the end, we sent out more than 40,000 fictitious applications for to more than 13,000 positions in 12 cities. Each job ad received multiple applicants from the study's different age groups.
+
+Among 65-year-olds seeking administrative jobs, the callback rate was about half that of younger applicants -- 7.6% versus 14.4%. ... Women faced worse age discrimination than men.
+
+Overall, the response was encouraging for our youngest group: depending on the job, between 14% and 32% of applications resulted in a callback for an interview. However, older workers received far fewer callbacks. For example, among 65-year-olds seeking administrative jobs, the callback rate was about half that of younger applicants — 7.6% versus 14.4%. Middle-aged applicants, too, received fewer callbacks.
+
+Women faced worse age discrimination than men. Comparing results by gender in retail sales, we found a sharper drop-off in callback rates for older women than for older men. And for the janitor and security jobs to which we submitted applications only from men, the pattern of lower callback rates for older applicants was less clear than for women applying for administrative or retail jobs.
+
+Why might older women suffer relatively more from age discrimination? In general, research indicates that physical attractiveness boosts hiring. Moreover, related research suggests that there is an “attractiveness penalty” for age, which is more severe for women than for men.
+
+In addition, legal protections against age discrimination may be inadequate for older women. Because the law that protects women from sex discrimination (Title VII of the Civil Rights Act) is separate from the law that protects everyone from age discrimination (the federal Age Discrimination in Employment Act), it is difficult for women to bring intersectional claims based on sex and age to court.
+
+Already many women outlive their husbands and end up quite poor. Unless we do more to combat age discrimination — so that older women, in particular, find it easier to stay in or return to the workforce — policy incentives to retire later may reduce older women's retirement benefits without doing much to increase their employment, ultimately doing more harm than good. Yes, if women worked until they were older, their post-retirement financial straits might be eased — but our study indicates that right now many of them don't get that option.
+
+David Neumark is a professor of economics at UC Irvine. Twitter: @NeumarkDN
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook
+
+MORE FROM OPINION
+
+Downtown L.A. isn't 'vibrant,' it's a gritty melting pot. And that makes it even more compelling
+
+Restoring voting rights to Virginia ex-felons is a welcome move – but for a whiff of partisan politics
+
+It's time for Indiana Gov. Mike Pence to make up his mind if he's for or against Donald Trump

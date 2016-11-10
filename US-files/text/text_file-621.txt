@@ -1,0 +1,31 @@
+Steve Tadelis, an Israeli economist and UC Berkeley business school professor, explores economic transactions through abstract mathematical models. In 2011, after a decade and a half of theorizing, he took a leave from academia to spend some time at EBay, in the real business world.
+
+What he found surprised him. A company replete with nerdy data crunchers was failing to take into account some basic economic principles. For instance, EBay employed a team of data scientists to optimize its spending on paid Google listings. They figured out how to bid just the right amount to guarantee EBay’s paid listings would show up at the top of Google search results. If someone were looking for, say, a Les Paul guitar, EBay’s listing would appear first. But Tadelis pointed out that they never really asked the most fundamental of marketing questions: Were the millions they were spending on Google ads getting better results than spending nothing at all?
+
+Answering that question put Tadelis into the ranks of PhD economists who are tinkering directly with the businesses and markets. They’re embedded in Silicon Valley companies, they advise governments, and they have a hand in the way you buy tickets, stream music, or book a room on Airbnb. You're the subject of their experiments and the beneficiary of them too.
+
+Amazon, which last year aimed to hire two dozen freshly minted economics PhDs, treats the work of these scholars almost as a trade secret. EBay, Airbnb, Uber and Facebook openly advertise their findings, providing insights into the way markets work, and how we use them, that might never have been revealed were it not for the flow of economists into these companies.
+
+Tadelis’s study of EBay’s paid listings is a case in point. “Half the money I spend on advertising is wasted,” goes the old saw. “The trouble is I don't know which half.” Tadelis and an economics team found the answer by persuading EBay to do the near unthinkable: shut off all Google ads in a third of the country for two months. The study’s design was akin to a clinical trial, with the states where EBay ended its ad buys selected at random.
+
+The results were clear: For EBay at least, Google search ads weren't doing much for sales. People bought things in much the same numbers with or without ads, finding their way to the site by clicking on the “natural” listings that come immediately following the paid ones, or by going directly to EBay’s site without using a search engine at all.
+
+Search ads did influence Internet surfers with little recent history of EBay transactions; they were more likely to make purchases on EBay if they saw a paid ad. But the cost of acquiring these customers far exceeded the benefits. In the short run at least, paid ads generated only about 25 cents in extra revenues for each dollar spent. EBay won't disclose its marketing strategies, but our Google search for "Les Paul guitar" didn't show any paid EBay ads.
+
+We've become unwitting subjects in experiments designed by economists and other data scientists who know more about us than we might care to think about.
+
+Advertising cost/benefit analysis isn't the only area of interest for economists embedded in the digital business world. Recent experiments at Airbnb, EBay, and elsewhere have documented gender and racial discrimination by buyers and sellers. The researchers deployed such ingenious techniques as altering the color of a hand that held a baseball card up for auction on EBay (the ones held by black hands went for 20% less), or by signaling an iPod seller’s gender by listing a purse and pair of woman’s shoes under the same username (the penalty for being a woman is also about 20%).
+
+In response to some of the findings in studies of discrimination, there are proposals afoot to mitigate online racism and sexism. Two Harvard Business School professors, Benjamin Edelman and Michael Luca, who have studied racial discrimination by Airbnb hosts, designed a browser plugin that Airbnb users can voluntarily install — one that keeps host and guest names and pictures hidden (masking race) until a deal is struck. It won’t do much to change the behavior of overtly racist or sexist market participants, but it offers a technological fix for the unconscious biases that many of us have and would like to find a way to overcome.
+
+Our willing participation in the mechanisms that shape our online lives, in the form of “terms of service” agreements, has allowed economists to invade that most personal space — our Facebook feeds. In its efforts to drive user engagement, Facebook economists have been applying machine learning, game theory, and economic intuition to develop algorithms that translate clicks, likes, views, and time spent on pages into the feed that you supposedly want, even if you might be appalled by the number of cute cat videos that are served up as a result of the preferences you reveal.
+
+And therein lies the brutal truth of mixing economists and the digital world's data caches: We can't hide from what’s revealed by our own clicks. We've become unwitting subjects in experiments designed by economists and other data scientists who know more about us than we might care to think about, and can show us things about ourselves we’d rather not know.
+
+Often the experimenters have the goal of making online markets work better and more efficiently — getting us to the information and products we’d most like to find, tweaking prices to reflect supply and demand. Sometimes they might even have the goal of making us happier or better people. But mostly these experiments are just a means to the end of making more money for the companies that employ the researchers.
+
+We’d do well to attend to what they’re up to, so we can have a better-informed public conversation about the experiments they’re conducting on us all.
+
+Ray Fisman and Tim Sullivan are the authors of the just published book "The Inner Lives of Markets: How People Shape Them — and They Shape Us."
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

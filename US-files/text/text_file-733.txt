@@ -1,0 +1,35 @@
+The United States leads the world in both technology and cultural influence for many reasons — our individualism, our diversity, our leading universities and dedication to free expression. But one essential reason goes mostly unsung: Back when the Internet was just getting started, America got a vital bit of copyright law right.
+
+Specifically, the “notice and takedown” provisions in the Digital Millennium Copyright Act. The DMCA, which was incorporated into U.S. copyright law in 1998, established how copyright owners and Internet companies would share responsibility for dealing with online copyright infringement. That process has worked well for years, but now Hollywood and major record labels want Internet companies like Google and Facebook to bear a greater share of the burden of rooting out piracy. The result could be a broken Internet.
+
+Here’s how “notice and takedown” works today. If you hold the copyright on a work — a song, a movie, a book — and someone has uploaded it to YouTube or some other Internet service provider, you send a notice to that ISP. You must, however, point to a specific violation and identify the Internet address of the infringing material; a general complaint about piracy won’t do. Once the ISP receives the proper notice, it must take down the allegedly infringing material and tell the customer who put it online that it has done so.
+
+A customer can promptly file a “counter notification” if he believes in good faith that he has a legal right to publish the material online. Which he might. He could have licensed it, or the post may fall within the boundaries of copyright’s fair use doctrine. If there is a counter notification, the ISP puts the content back online unless ordered by a court to take it down.
+
+ISPs that follow these and other related procedures are immune from copyright liability for whatever content their customers post online.
+
+This policy offers a fair balance. ISPs cannot possibly prescreen every photo, blog post, song, video — or assess whether each is licensed or within the bounds of fair use. People view hundreds of millions of hours of videos every day on YouTube alone. The DMCA lets ISPs do business responsibly without the threat of ruinous copyright liability. At the same time, the notice-and-takedown system is a powerful tool against pirated content. Copyright owners sent more than 500 million takedown requests just to Google last year.
+
+In short, the DMCA makes the Internet as we know it today possible. Which is why it is so alarming that studios and record companies are now trying to undermine it.
+
+The genius of the DMCA is that it lets technology startups comply with the law without hiring a platoon of copyright lawyers.
+
+The U.S. Copyright Office — which has a history of favoring the interests of Hollywood and record companies over Silicon Valley technologists — recently solicited public comments and held hearings on the notice-and-takedown provisions. The Copyright Office is widely expected in the next year to recommend that Congress make changes to the DMCA, possibly adopting Hollywood’s preferred approach: “notice and staydown.”
+
+The idea of “notice and staydown” is that when an ISP receives a notice of copyright infringement it would then search out and delete all copies of that work and, more importantly, block that work from ever being uploaded again.
+
+That sounds good in theory. But consider it in just a bit of depth and its appeal quickly falls apart. First, just because one user is infringing on a copyright doesn’t mean that a second user who posts the same content is also infringing. The second person may be licensed or making a sort of use — for example, a non-profit educational use — that the law often treats as permissible. Notice and staydown would guarantee that such perfectly legitimate uses would get blocked.
+
+But there’s a worse problem. Notice and staydown effectively kills the chance of any startup or entrepreneur to compete with established players such as YouTube and Facebook.
+
+It’s impossible to enforce any “staydown” without technologies that mark and identify copyrighted material. And that sort of technology is extremely expensive. YouTube has what is considered the most sophisticated system out there, called Content ID. It takes digital “fingerprints” of copyrighted works and checks all new uploads against those fingerprints. Something even more elaborate than Content ID would be required to make notice and staydown work.
+
+Content ID cost Google more than $50 million to build. Not many startups can replicate that.
+
+The genius of the DMCA is that it lets technology startups comply with the law without hiring a platoon of copyright lawyers. It also enables entertainment companies to turn piracy into legitimate revenue. YouTube’s Content ID system, for instance, gives copyright owners the opportunity to “claim” their work and share in any advertising revenue rather than pull it off the site. Copyright holders, including record companies and TV and movie studios, already have collected more than $1 billion by monetizing formerly illegal content on YouTube under this system.
+
+A good political compromise leaves all sides slightly disappointed. The DMCA is just such a compromise. Technology companies remove pirated content by their users. Entertainment companies must proactively identify that pirated content. It’s not a perfect system, but it works — and because of it, the Internet works too.
+
+Chris Sprigman is a law professor at New York University and co-author of “The Knockoff Economy: How Imitation Sparks Innovation.” Mark Lemley is a law professor at Stanford and founding partner at the law firm Durie Tangri.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

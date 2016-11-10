@@ -1,0 +1,29 @@
+Federal regulators are poised to approve Charter Communications' $71-billion purchase of Time Warner Cable and Bright House Networks, but with conditions that will be a boon to online video companies such as Netflix and the millions of people who love them.
+
+Theoretically, cable-industry mergers shouldn't draw flak from antitrust regulators because cable companies don't compete with one another. Their networks almost invariably serve different cities, and when they're in the same city, their cables are installed in different neighborhoods.
+
+But as cable operators have grown bigger, other potential threats to competition have emerged. That's opened up opportunities for regulators either to block further consolidation or to set rules -- temporarily -- for merged entities that they couldn't have imposed on the companies individually.
+
+For example, when Comcast tried to buy Time Warner Cable, federal regulators nixed the deal for fear that it would hurt content companies that reach millions of customers through Comcast's TV and Internet services. Among other factors was Comcast's ownership of NBC Universal, which gave the company an incentive to favor its own content over other companies' programming.
+
+Charter doesn't own a major movie and TV studio. But its purchase of Time Warner Cable, like Comcast's bid, would give Charter a significantly larger share of U.S. homes with cable TV or broadband Internet connections.
+
+Put another way, purchasing Time Warner Cable (and Bright House, a smaller cable and broadband provider) would put Charter in position to act as a gatekeeper to about one-sixth of U.S. pay-TV customers, and about one-fifth of broadband customers -- one-fourth if you consider only those homes whose connections are at least 25 Mbps. That would increase Charter's leverage when negotiating for the rights to popular broadcast and cable networks. It would also give Charter more power to throw hurdles into the path of online companies such as Netflix, whose services compete with Charter's offerings.
+
+It's worth remembering, though, that those same online content companies help persuade people to buy broadband service from the likes of Charter. And the Federal Communications Commission's new (albeit embattled) Net neutrality regulations are designed to prevent Charter and other Internet service providers from obstructing (or discriminating in favor of) the Netflixes of the world.
+
+Nevertheless, the U.S. Department of Justice is insisting that Charter abide by extra restrictions for seven years in order to win approval of the deal, and FCC Chairman Tom Wheeler has circulated a similar plan at his agency. (The California Public Utiltiies Commission, which has not yet acted, must also sign off on the merger before it can take effect here.) These include bans on data caps and usage-based pricing for Charter's broadband service, and on interconnection fees for the privilege of exchanging Internet traffic with Charter. The DOJ also forbade Charter from blocking TV programmers from making available online the same shows that they transmit to Charter's cable customers.
+
+All of these moves, along with the requirement to compete for broadband customers in more communities, are designed to keep the door open for online video services that are trying to compete with cable. Netflix is the most advanced of these, but others include the online versions of HBO and Showtime, Hulu Plus and Dish Network's Sling TV.
+
+By banning data caps and usage-based pricing, regulators are preventing Charter from making it more expensive for its broadband customers to be heavy users of online video services, particularly those that offer data-gobbling high-definition movies. The flip side is that the ban forces Charter to spread those users' costs onto its entire customer base, which rules out the possibility of light users paying lower monthly rates.
+
+Similarly, the conditions bar Charter from locking up popular channels and programming, making sure it remains available to online video distributors. Whether the studios that own the programming want to license it to Charter's online competitors is another question; some have been reluctant to do so for fear of cutting the lucrative fees they command from Charter and other cable operators.
+
+The conditions imposed on the deal address longstanding concerns among regulators about the problems would-be online video services have been encountering as they've sought to compete with cable. Even such powerful companies as Apple, Intel and Sony have struggled to cut the programming deals necessary to offer an alternative to cable online.
+
+The FCC and the Justice Department don't have the clear authority to act on those concerns, however -- not unless cable operators tee up a merger like Charter-Time Warner Cable. As much as consumer activists complain about consolidation in the media industry, here's one case where it seems to be working in their favor.
+
+Email Jon Healey
+
+Follow Healey's intermittent Twitter feed: @jcahealey

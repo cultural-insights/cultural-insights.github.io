@@ -1,0 +1,29 @@
+In 1874, Father Patrick Francis Healy became the first African American president of Georgetown University, and thus the first African American president of a predominantly white college. Racism didn't impede his rise for a simple reason: Most people thought he was white. No one — neither journalists nor the board of trustees, neither Georgetown professors nor students — had a simple way to discover his true background.
+
+Today the Internet makes it impossible to achieve that level of privacy. Never has it been so easy to conduct legitimate background checks or verify credentials; and never has it been so easy to surreptitiously research prospective employees' religion, race or personal views. Employment discrimination is of course illegal. However, we know that discrimination occurs, and online searches can covertly facilitate it.
+
+Never has it been so easy to conduct background checks; and never has it been so easy to surreptitiously research prospective employees' religion, race or personal views.
+
+Alessandro Acquisti and Christina M. Fong of Carnegie Mellon University recently conducted a large-scale field experiment about social media use in hiring. First they created Facebook profiles for fictional job candidates, striving to make them identical, except for indications of religious affiliation (listed as Christian or Muslim) or sexuality (gay versus straight). Next they submitted applications for these fictional job candidates to more than 4,000 employers. These did not indicate religious affiliation or sexuality. The only way to determine the candidates' religious preference or sexual orientation was to search for and examine their Facebook profiles.
+
+About 33% of the companies in the sample seem to have examined the candidates' social media profiles. The researchers found no statistically significant discrimination against gay candidates. They did, however, find that employers in Republican areas of the United States (based on election results) exhibited significant bias when extending interview invitations — against Muslim applicants, and in favor of Christian applicants. In the 10 states with the highest percentage of votes for the 2012 Republican presidential nominee, only about 2% of the Muslim applicants were invited for interviews, compared with about 17% of the Christian applicants.
+
+The Carnegie Mellon study's 33% finding is roughly consistent with other research. A 2014 survey of more than 2,000 hiring managers found that more than 40% of respondents used the Internet to research job applicants, and about half the respondents who researched applicants online found information that caused them to not extend job offers. Of the respondents who had not previously screened applicants on the Internet, 12% said they planned to do so in the future. The trend, in other words, is toward even more online personal information searches, with potentially negative consequences for perfectly good candidates.
+
+Consider the case of Martin Gaskell, who was the lead candidate for an academic position at the University of Kentucky. An Internet search revealed that Gaskell was an evangelical Christian who doubted the theory of evolution. After this information surfaced, the university declined to extend him an offer. So Gaskell sued, claiming religious discrimination. He ultimately received $125,000 from the university as a settlement.
+
+Pre-Internet, anyone wishing to determine Gaskell's religious beliefs would probably have had to ask him directly, which would have made the employer's concerns obvious, not to mention easily actionable. In an interview, Gaskell could have refused to make his views clear. The Internet makes direct questioning unnecessary, and refusal impossible.
+
+To reduce potential online employment discrimination, here are four practical suggestions.
+
+First, social media companies should be more thoughtful about the information they collect, and how they make it available — weighing the benefit of what they collect against the possible harm it can cause. Facebook, for example, invites users to list their religion — is this necessary? Facebook also makes the following information publicly available: your name, user name/ID, gender, age range, networks, profile picture and cover photo. Such wealth of detail makes it easy for friends and family to find your profile; it also facilitates snooping by potential employers.
+
+Second, companies should have explicit policies restricting background searches to only workplace-relevant material. If possible, job applications should be anonymized, with numbers substituted for names, so evaluators won't be tempted to check social media before deciding whom to invite for interviews.
+
+Third, government agencies should seek ways to more aggressively test companies' compliance with existing laws barring discrimination. Perhaps they could imitate academic researchers by sending out dummy CVs to test compliance.
+
+Finally — and, yes, this should be obvious — we should all be careful about what we publish online. As a practical matter, we should assume that anything posted will eventually become public, and that present and future employers, among others, will see it. We now live in a global digital village; nosy neighbors abound.
+
+Steven Strauss is a visiting professor at Princeton University's Woodrow Wilson School of Public and International Affairs. He has advised senior public sector leaders in Europe, the Middle East and the United States.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

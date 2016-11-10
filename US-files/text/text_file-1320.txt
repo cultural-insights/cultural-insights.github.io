@@ -1,0 +1,25 @@
+No one knows for certain what will happen if an errant drone crashes into a passenger jet. Maybe nothing — birds collide with planes all the time with little consequence. But not always. From time to time, a little bird causes big damage to an airplane.
+
+Who wants to find out for sure? Better to keep drones and planes well out of each other's way. One important step is for Congress to pass the Federal Aviation Administration reauthorization bill that's working its way through the Senate this month. Among many other things, the bill adopts some of the strictest regulations for commercial and hobby drones yet. It's way past time to start getting a handle on these flying robots.
+
+Significantly, the bill would require the industry to develop new safety standards for unmanned aerial vehicles — UAVs in industry parlance — that will likely mandate technology that stops drones from flying into restricted airspace. That wouldn't be a huge hurdle for the industry; DJI, one of the major consumer drone manufacturers, has started including this capability, called geo-fencing, into its drones.
+
+One of the provisions would require the government to develop a method to identify remotely the operators and owners of drones while they are in the air.
+
+The necessity of such a step was highlighted a few weeks ago when the pilot of a Lufthansa A380 passenger jet reported that a drone passed within 200 feet of the plane as it approached Los Angeles International Airport. The plane was flying at about 5,000 feet. Drones are not supposed to fly above 400 feet. They do anyhow. Last year, hundreds of pilots reported seeing drones flying way too close for comfort.
+
+The drone that crossed paths with the Lufthansa plane was never identified by the FAA, but under the new rules proposed in the bill, reckless drones in the future may be. One of the provisions would require the government to develop a method to identify remotely the operators and owners of drones while they are in the air. The FAA set up a mandatory drone registration system last year, but fewer than half of the estimated drone owners have registered and there's no mechanism to identify them.
+
+Accountability is essential, given the expected growth of consumer drone sales: An estimated 7 million consumer drones will have been sold in the U.S. by 2020. That figure includes both large, high-end drones used professionally (for such things as filming and monitoring crops) and the small, low-cost models sold at electronics stores.
+
+The consumer drone revolution sneaked up on most Americans, turning the devices from a novelty into a nuisance seemingly overnight. Last summer, stories of drones blundering into aerial firefighting operations in California woke up the public to both the proliferation and the inherent dangers of a technology so sophisticated and powerful that anyone can have one flying thousands of feet in the air within minutes.
+
+Not all of the drone provisions in the bill have merit. Manufacturers are legitimately concerned that the language will result in an approval process for safety standards that could create a bottleneck for new models. Another provision, preempting cities and states from adopting their own rules for drones, needs tweaking. It makes sense for Congress to preempt local rules that would create a messy patchwork of regulations over drone manufacturing, safety standards and most use of airspace. At the same time, however, there must be some recognition that cities and states have a role in determining how drones are used in their communities in the future.
+
+As the National League of Cities and United States Conference of Mayors put it in a letter to senators, “[P]olicymakers, including those at the federal level, do not yet know what the broader use of commercial UAVs means for our cities and towns, and cannot reasonably anticipate the challenges that will arise with the expanded deployment of UAVs.”
+
+But we have a good inkling of what is to come: drones delivering pizzas, books and all manner of other consumer goods, if the likes of Amazon and Google have their way. And they probably will, which will entail the development of aerial drone thoroughfares through cities and towns. Cities and states ought to have some ability to make land-use decisions about where to place those pathways.
+
+Sen. Dianne Feinstein (D-Calif.), whose Consumer Drone Safety Act helped shape this bill, has offered an amendment with two other senators that would limit federal preemption to drone manufacture and design. That's a good place to start. While it's important to make sure that the skies are safe today, communities must be allowed to prepare for the challenges of tomorrow.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

@@ -1,0 +1,29 @@
+CEO Mark Zuckerberg attracted a lot of attention — including from some telecom regulators — with his pronouncement that Facebook would “connect the world” by bringing limited Internet access to the unconnected in countries like India. His plan and others like it generally raise the hackles of government officials who are, perhaps rightly, wary of allowing giant corporations and the moguls who run them to have too much control over communications systems.
+
+Technology companies and governments have been locked in this type of conflict for over 100 years, ever since a youthful Irish-Italian inventor by the name of Guglielmo Marconi patented the very first system for wireless communication. They weren’t using terms like network neutrality back then, but most of our ideas about telecom regulation – both for and against – have their origins in efforts to block Marconi’s near-monopoly control of the airwaves over a century ago.
+
+In 1896, Marconi, just 21, left Italy for England, where he hoped to drum up interest in a contraption he had invented: a box that could send Morse code signals across a room without any connecting wires. This was, quite simply, the first transmission of information by radio waves. Marconi called it “wireless telegraphy” — an improvement on the dominant technology of the day, the telegraph.
+
+Within a year, Marconi had patented his invention and launched a company. He continued perfecting his system, so that its signals spanned greater and greater distances. He cultivated powerful friendships with the likes of the King of Belgium, the head of the British Post Office, Thomas Edison and Alexander Graham Bell. He used the media to create an aura around him. And, importantly, he successfully slapped a lawsuit on anyone who tried to use the airwaves.
+
+He traveled tirelessly, making his first trip to the U.S. in 1899 to demonstrate the value of his invention to the U.S. Navy by, among other things, reporting the arrival of Adm. George Dewey in New York Harbor from aboard a naval vessel. By 1900, Marconi’s Wireless Telegraph Co. was on its way to a global monopoly on the use of the radio spectrum.
+
+But wireless was a strategically crucial weapon in the great power rivalry that would eventually culminate in the First World War. Marconi’s system proved its military value for the British in the Anglo-Boer War in South Africa (although he also offered it to the Boer republics). In wartime, cables could be cut, but wireless signals would travel across enemy lines. Far-flung colonies could be kept in touch. For the first time, communication could be made from ship to shore and between ships at sea.
+
+Today’s [tech] moguls and their companies, whether they are aware of it or not, are the direct descendants of Marconi.
+
+The German emperor, Wilhelm II, was alarmed that this new technology – the Internet of its day – might end up in the exclusive control of a British company. He assembled an international conference in Berlin in 1903 to try to convince the other governments that wireless communication should be open, regardless of who owned the equipment. (Marconi only leased, never sold, his “system,” as he called it.) At that conference, the Americans were Germany’s strongest ally. The U.S. Navy was greatly interested in wireless, but did not want to be tied exclusively to Marconi.
+
+Marconi lobbied the British and Italian governments, especially, and courted public opinion to argue that his company was entitled to profit exclusively from the benefits of his invention. He also claimed (falsely) that “intercommunication” between his transmitters and receivers and those of rival companies was technically impossible.
+
+The governments, however, did not want to see a Marconi monopoly. They made the case that competition would lead to lower rates and improved service — in other words, would be good for consumers around the world and hence a legitimate objective for an international treaty. The heart of the matter was an understanding of regulation. Despite their political differences, most governments agreed that they had the right to intervene by regulating the radio spectrum.
+
+It took a second conference, but eventually even Britain and Italy — Marconi’s two native lands — got on board, and an international treaty was signed, specifying that use of the air should be open to anyone. (This may have been the only time an international treaty was adopted to curb the power of one man — something no modern magnate, not Bill Gates nor Steve Jobs nor Zuckerberg, can claim.) By 1906, it was agreed that wireless equipment didn’t all have to meet Marconi’s technical standards.
+
+Today’s moguls and their companies, whether they are aware of it or not, are the direct descendants of Marconi. Apple’s products emulate Marconi’s approach to “intercommunication” — which is to say they don’t do it. Microsoft’s Windows operating system, to this day, is licensed, not sold. Facebook’s scheme to “connect the world” is truly Marconian in ambition — and like Marconi’s did, it may well be stymied by regulators.
+
+The International Radio Telegraph Convention of 1906 set the course for an international regulatory regime, first for wireless, then broadcasting, and ultimately all telecommunication. Today, everything from radio and TV channels to satellite orbits to the seamless interconnections of the Internet is governed by such international agreements. States remain sovereign for communication within their territories. Tech companies, powerful as they are, still have some boundaries.
+
+Marc Raboy is a professor of communication at McGill University and the author of “Marconi: The Man Who Networked the World.”
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

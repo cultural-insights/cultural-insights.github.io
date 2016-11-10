@@ -1,0 +1,17 @@
+Photo
+
+If a teenager gets bullied on social media, it’s usually up to her to report the incident. But one day, an automated tool might spot the harassment, ask her if she needs help, tell a moderator to step in on her behalf or notify her parents.
+
+While rudimentary filters for bad language have existed for years, tech companies and others are experimenting with tools that use machine learning, crunching through huge numbers of online interactions to “train” themselves to identify bullying.
+
+The Google subsidiary Jigsaw has developed a tool called Conversation AI, which uses machine learning to identify harassment. Jigsaw trained the tool with the help of institutions, including The New York Times, which provided 17 million reader comments from The Times’s website along with decisions that moderators had made about whether to accept or reject them. Analyzing comments that moderators had flagged as abusive helped Conversation AI improve.
+
+Mary Aiken, a cyber security expert, proposes a similar approach in her new book “The Cyber Effect.” She hopes to create a database of user-submitted examples of harassment that can be used to develop an anti-bullying tool.
+
+A number of other researchers and companies, including SRI International, which created Siri, have explored machine-learning responses to online harassment in recent years.
+
+These efforts have the potential to change the way social networks and other technology and media companies handle harassment. Bullying is difficult to identify in part because the same phrase can be insulting in one context and affectionate in another, said Norman Winarsky, the former president of SRI’s ventures group. But by analyzing millions or billions of conversations, new tools could begin to identify patterns that distinguish innocent comments from harassment.
+
+The technology isn’t foolproof. When Andy Greenberg at Wired tested Conversation AI with a real example of harassment directed at another writer, the tool rated the obvious threat as fairly benign.
+
+While AI tools are likely to improve over time, humans will probably always need to monitor them for accuracy and make the final decision in difficult cases. Companies that use the tools will have to ensure that their users consent to having their interactions monitored by a computer program. Identifying harassment, of course, is only the first step to protecting users of social networks. Just as important is how quickly the companies respond to acts of harassment once their tools spot that behavior.

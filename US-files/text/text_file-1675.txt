@@ -1,0 +1,19 @@
+As the polls open across the 13 Super Tuesday states holding primaries or caucuses, many voters won’t find the name of their preferred Republican candidate. Individual donors in Super Tuesday states spent approximately $71 million giving to Republican candidate principal campaign committees, their (official) supporting committees and (unofficially) affiliated super PACs since the start of the election season in November 2014. Of that number, $23.55 million— nearly a third—went to candidates who have already dropped out of the race.
+
+Those statistics would be even more skewed were it not for the $29 million raised by Sen. Ted Cruz from his home state of Texas.
+
+Perhaps more astounding, Republican front-runner Donald Trump raised only a minuscule $812,000 from Super Tuesday state donors — the second least of any candidate. Only Jim Gilmore, who received 12 votes in the Iowa caucuses, failed to raise more.
+
+Democrats, meanwhile, raised $29.8 million in these states from individual donors. Of that number, however, only $876,000 didn’t find its way to Hillary Clinton or Sen. Bernie Sanders.
+
+In an electoral process where money usually talks, individual donations seem to have had little bearing on the campaign results thus far.
+
+Sources
+
+Our data is based on Federal Election Commission records and is current as of Feb. 20.
+
+We used OpenSecrets.org to link donations to PACs back to specific presidential candidates.
+
+Dave Goodsmith is a data scientist at DataScience, Inc.. You can find him on the DataScience blog and @thegoodsmith. Ben Van Dyke and Jean-René Gauthier contributed data research to this report.
+
+Follow the Opinion section on Twitter @latimesopinion and Facebook

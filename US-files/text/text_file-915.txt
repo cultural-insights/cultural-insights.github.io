@@ -1,0 +1,45 @@
+The natural gas leak at the Aliso Canyon gas storage facility was a disaster with continuing widespread repercussions. In addition to the obvious harm to public and environmental health, officials now speculate the Southland will face summer blackouts because of the shuttering of the facility. That’s because Aliso Canyon plays an important role in the current iteration of L.A.’s electricity generation infrastructure.
+
+Until its closure in late 2015, the facility supplied natural gas to power plants for immediate use during "peak" periods of high electricity demand. On high electricity demand days, "peaker" plants — which run intermittently as backups to the main system — are used to quickly generate the extra electricity. Officials from SoCal Gas, California Energy Commission and the California Public Utilities Commission warn that without Aliso Canyon, there won’t be enough gas to turn on the backup plants this summer when temperatures soar and residents are desperate for air conditioning.
+
+See the most-read stories this hour >>
+
+Whether these blackouts actually occur remains to be seen. But the panic surrounding their possible arrival could lead us to make some poor decisions about the future of our energy infrastructure if we’re not careful. Continuing to rely on natural gas peakers may address the immediate problem, but the supply systems for these plants — as the Aliso Canyon leak demonstrated — are fragile.
+
+The problem goes beyond shoddy infrastructure. Adding more electricity to the grid creates trouble when demand dips lower than supply. The excess energy produced needs a place to go — and is often sold for cheap to incentivize increased consumption.
+
+Natural gas operations are already intense greenhouse gas emitters. The structure of our power grid only makes things worse.
+
+Instead of propping up our old system, based on speculated power shortages, we should be thinking critically about how to transform our grid so that we never experience blackouts again — not to mention another disastrous natural gas leak.
+
+The Aliso Canyon disaster demonstrates the need for L.A. to move beyond big, dirty plants powering a central grid. Instead, we should be enabling neighborhoods to locally generate their own power through the creation of small, green, localized grids — or “microgrids” — independent from the central grid. This distributed power network would help reduce system-wide vulnerabilities and eliminate the need for gas-fired backup plants to meet high electricity demands.
+
+In some parts of the country, solar generation is already able to meet peak electricity demands on hot and sunny days. Because peak demand energy is typically far more expensive than other times of the day, locally distributed solar can reduce long-term system costs for customers.
+
+Additionally, solar generation and energy storage systems can be customized to meet the needs of a given community. For example, brownfields (land abandoned due to contamination) for solar farms could provide clean energy for a community on otherwise marginal land. Paired with battery storage systems, these solar farms could supply around the clock electricity.
+
+Making this shift, however, won’t be easy.
+
+So far, investor-owned utilities such as Southern California Edison and San Diego Gas & Electric have been hesitant to invest in distributed energy — as it represents a shift from their current business model of buying mass amounts of electricity from existing power plants. Distributed energy infrastructure, on the other hand, would reduce the amount of money utilities spend on purchasing electricity, but would require large up-front infrastructure costs.
+
+There is some hope in persuading utilities to change their approach. All energy companies in California are required to meet clean energy goals set by the state. Incentives can be used to help them transition to a sustainable microgrid model. The California Public Utilities Commission recently introduced a proposal to incentivize just such a transition.
+
+Even if utilities can be convinced to change their model, however, challenges remain. Determining the type of local generation and storage systems appropriate to individual communities across the Southland requires a comprehensive understanding of the area’s energy needs and generation potential — a level of understanding that would require exhaustive study to acquire.
+
+Further complicating matters, utilities have traditionally not made electricity and natural gas consumption data public for analysis. This lack of transparency makes it difficult for outside entities to conduct these studies and lobby for the smartest plan.
+
+Here in the Southland, we can help solve this part of the energy puzzle by using UCLA’s California Center for Sustainability Energy Atlas. The atlas displays aggregated electricity and natural gas billing data for the L.A. area, which can be used to analyze energy consumption for specific neighborhoods by characteristics such as building type, building size or household income. This data can help policy makers and utilities go neighborhood to neighborhood, building to building, focusing on where to construct new microgrids or where conservation might be more fruitful.
+
+It will take thought and planning to move beyond the status quo and to reduce our dependency on the central grid. Alison Canyon was an environmental tragedy. If we want to prevent something like it from happening again, we need to improve the state of our power grid and move beyond our dependence on natural gas. The longer we wait, the more difficult this transition will become.
+
+Alex Ricklefs is a staff researcher at the California Center for Sustainable Communities, Institute of the Environment and Sustainability, UCLA
+
+Follow the Opinion section on Twitter @latimesopinion or Facebook
+
+MORE IN OPINION
+
+White kids, rap lyrics and the question of racism
+
+Hillary Clinton's efforts to paint Trump as 'risky' play right into his hands
+
+Reforming the police disciplinary system should be done in public view, not in backroom negotiations

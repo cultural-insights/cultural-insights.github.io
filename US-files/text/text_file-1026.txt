@@ -1,0 +1,33 @@
+What’s the root cause of Los Angeles’ affordable housing crisis? Many blame the new luxury housing developments springing up in downtown, Hollywood and Koreatown. New apartment towers and "mega-developments" arrive, driving up interest in the neighborhood and attracting hipsters. Landlords take notice and soon rents start climbing. That’s the story anyway.
+
+But here’s the thing: If booming development in hot markets like Hollywood and downtown is why rents keep going up and up and up, why have the same price increases hit locales with extremely limited development?
+
+Sherman Oaks, Beverly Hills, Hancock Park and Alhambra have seen little development over the past decade. Nor are they in danger of being "up-zoned" for 20-story apartment towers (or even five-story mid-rises) in the future. And yet, rents and home prices have climbed in these neighborhoods right alongside those of the more aggressively developed locales.
+
+Using data from the U.S. Census Bureau from 2000 and 2010, I compared the change in the number of housing units to the increases in median rent and home value for each ZIP code in Los Angeles County. The result? Almost no relationship whatsoever. Where new development was heaviest, prices went up a lot. Where development was almost entirely absent, prices also went up a lot.
+
+Consider these two very different neighborhoods: Bustling downtown ZIP code 90012 grew by a whopping 36% between 2000 and 2010 and saw rents climb by 73% and home values increase 152%. Laid-back Venice 90291 actually lost 21 housing units over this period, and its rent and home values went up by 78% and 167%, respectively.
+
+So why doesn’t the rate of local development do much to explain the affordability crisis one way or another? Because our problems aren’t driven by a local phenomenon but by a regional one: low residential vacancy rates. Nothing is more important, and data from the American Community Survey confirm this. Zooming out to look at the 20 largest U.S. cities rather than local ZIP codes, the correlation between prices and vacancies is four times stronger than the correlation between prices and new development.
+
+Most experts agree that a 5% vacancy rate is the point where the power dynamic between tenants and landlords shifts. Above 5%, landlords need to offer incentives or lower rents to be competitive; lower than that, landlords know if a tenant leaves, there are half a dozen more clamoring to take her place. According to reports from the USC Lusk Center for Real Estate, multifamily vacancies in Los Angeles have been under 5% for nearly five years.
+
+This problem won't be solved by trying to prevent change. That's the path San Francisco chose, and now a shabby one-bedroom apartment there rents for $3,000 a month.
+
+Metro area vacancy data compiled by the NYU Furman Center confirms that the most expensive housing markets in the nation also have some of the lowest vacancy rates: Boston, Los Angeles, New York and San Francisco. Cities like Houston, Dallas and Atlanta, where vacancy rates are above 7%, have managed to stay relatively affordable.
+
+Los Angeles is not the only city with a housing shortage, but it is lagging furthest behind its population growth. Among metro areas with at least 2 million people, our vacancy rate is now the lowest, averaging 3.1% over the last year. Residents are increasingly desperate to secure their place in the city — desperate enough to spend 40%, 45%, even upwards of 50% of their income on housing. Rents here aren’t at San Francisco and New York levels yet, but we’re on our way.
+
+This problem won’t be solved by trying to prevent change. That’s the path San Francisco chose, and now a shabby one-bedroom apartment there rents for $3,000 a month.
+
+To address the affordability crisis, Los Angeles’ first priority should be confronting this shortage of housing. This will require a more humanistic approach to housing policy, acknowledging that when we reject adding more housing to our neighborhoods, we turn away real people who want to make a better life for themselves and contribute to our region’s success.
+
+Providing more market-rate housing will not be a panacea, of course, and it must be complemented with policies that more effectively incentivize creation of sufficient affordable housing and additional resources to support lower-income residents. If we don't remedy the overall housing shortage, though, then all the subsidies, rent stabilization ordinances and affordable housing mandates will amount to little in the grand scheme of things: Prices will keep climbing.
+
+So next time someone suggests that a fancy new development is driving up rents in a neighborhood, remember Venice, and Rosemead and Reseda. These communities aren’t growing, and yet rents there are surging just like downtown and Hollywood.
+
+The problem is not overly complex or nefarious. It’s a simple shortage — the result of 30 years of operating under the false premise that "if you don’t build it, they won’t come."
+
+Shane Phillips is an urban planner in Los Angeles. He writes about housing and transportation policy at Better Institutions.
+
+Follow the Opinion section on Twitter @latimesopinion or Facebook
